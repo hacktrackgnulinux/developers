@@ -1,7 +1,7 @@
 Package: revo-theme
-Version: 2017.1-rev2
+Version: 2020.1-rev1
 Architecture: all
-Maintainer: Root HackTrack <root@hacktrack-linux.org>
+Maintainer: Dindin Hernawan <dindin_hernawan@yahoo.com>
 Installed-Size: 184
 Section: gnome
 Priority: optional
