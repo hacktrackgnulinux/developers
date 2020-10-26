@@ -11,7 +11,7 @@
 # ------------------------------------------------------------
 ###################################################################
 # Default Profile <<Hack|Track GNU/Linux                       
-# version           : 2020.1
+# version           : 2021.1
 # Author            : <<Hack|Track GNU/Linux <hacktracklinux@yahoo.com>
 # Licenced          : Copyright 2017-2020 GNU GPLv3
 # Website           : http://www.hacktrack-linux.blogspot.com/
