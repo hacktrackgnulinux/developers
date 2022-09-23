@@ -1,0 +1,2657 @@
+<<Hack|Track GNU/Linux
+Anda membuat grup ini
+Anda tidak terhubung dengan 2 anggota
+
+Tambahkan
+Nama
+
+    Anggota
+
+27 Mei 2017
+27/05/17 11.56
+Anda mengirim
+ngobrol disini aja
+Zaki
+Zaki Ramdani
+Anda menamai grup ini <<Hack|Track GNU/Linux.
+Anda mengubah tema obrolan.
+Anda mengirim
+ngga ada beta prinsipnya rolling
+Anda mengirim
+ngga ada versi
+Anda mengirim
+kita independent core import dari debian selanjutnya kita mandiri
+Zaki
+Zaki Ramdani
+Anda mengirim
+sistem rolling sudah tau kan ?
+Ricardo
+Ricardo Siahaan
+Ya mas ngobrol disini aja
+Anda mengirim
+hacktrack dipisah dari Divisi xenta karena ini berbeda tujuannya
+Anda mengirim
+high compress itu maksudnya data sistemnya di compress misal data asli 2gb jadi 1gb kurang
+Ricardo
+Ricardo Siahaan
+Beebeda tujuannya karna apa mas?? Maaf saya banyak tanya
+Anda mengirim
+karena fokus kita live
+Anda mengirim
+karena ini buat penestrasing sedagngkan xenta desktop saja 🙂
+Anda mengirim
+corenya juga berbeda ini based debian xenta linux mint
+Anda mengubah tema obrolan.
+Anda mengubah tema obrolan.
+Ricardo
+Ricardo Siahaan
+high compress itu maksudnya data sistemnya di compress misal data asli 2gb jadi 1gb kurang... >>> ohh ya mas
+Anda mengirim
+ya inikan Live System
+Ricardo
+Ricardo Siahaan
+Ya mas
+Anda mengirim
+kelebihannya kita independent sistemnya rolling
+Anda mengirim
+jadi ngga ada versi versi ---
+Ricardo
+Sistem roling makdudnya mas
+Ricardo
+Ricardo Siahaan
+Sistem roling maksudnya mas
+Anda mengirim
+sistem rolling itu versi bergulir
+Anda mengirim
+jadi selalu uptodate
+Ricardo
+Ricardo Siahaan
+Ohh ya mas saya paham sekarang apa tuh sistem roling
+Anda mengirim
+beda sama fixed
+Ricardo
+Ricardo Siahaan
+Fixed maksudnya mas?? Maaf mas saya belum tau
+Anda mengirim
+fixed itu versi yang dirilis sampai fix jadi ada versi 1 2 3 4
+Anda mengirim
+jika kita dari 1 pengen 4 biasanya harus semua sistem di upgrade
+Anda mengirim
+makanya ada istilah veris versi
+Ricardo
+Ricardo Siahaan
+Ohh ya mas sudah paham apa itu sistem roling, high compress, fixed mas
+Anda mengirim
+Anda mengirim
+corenya 500mb
+Ricardo
+Ricardo Siahaan
+Jadi kita apakah kita ikutin versinya mas, buat masang tools nya
+Anda mengirim
+masih otak atik biar bisa dibawah 500mb
+Ricardo
+Ricardo Siahaan
+Itu sudah semuanya 500 mb tools nya mas
+Anda mengirim
+toolsnya ada versi tetap
+Ricardo
+Ricardo Siahaan
+Yang versi tetap tools apa mas
+Anda mengirim
+masksudnya mengikuti dari versi toolsnya
+Anda mengirim
+belum itu baru sistem dasr
+Anda mengirim
+dasar
+Ricardo
+Ricardo Siahaan
+masksudnya mengikuti dari versi toolsnya>>> ya mas
+Anda mengirim
+contoh aircrack-ng sekarang versi misal 4.5.4 kita akan gunakan itu di packet kita
+Anda mengirim
+kita buat paket sendiri
+Ricardo
+Ricardo Siahaan
+Ya mas , saya mau yang daaar sasarnya dulu supaya tau tools tools mana yang perlu digunakan
+Anda mengirim
+01) Information Gathering
+	Information gathering adalah sub tools yang berisi tools-tools yang digunakan atau berhubungan dengan mengumpulkan informasi (information gathering). Seorang attacker akan terlebih dahulu mengumpulkan informasi-informasi targetnya sebelum dia melakukan exploitasi dan explorasi. Informasi yang dikumpulkan biasanya informasi ip, port, protokol, dns, record. Contoh tools yang sering digunakan disini adalah nmap, hping, unicorn, openvas, dll.
+
+02) Vulnerability Analysis
+    Vulnerability assesment (VA) diterjemahkan dalam bahasa Indonesia menjadi ‘pengukuran kelemahan serangan’. Dari kamus Oxford arti vulnerable adalah: exposed to being attacked or harmed, either physically or emotionally. Sebenarnya paling mudah adalah menerjemahkan vulnerability sebagai kelemahan atas serangan dari luar.
+
+03) Exploitation Tools
+	Exploitation tools adalah sub tools menu yang berisi tools-tools yang dipakai untuk melakukan tindakan explotasi setelah tahap pengumpulan informasi dan VA selesai.
+
+04) Wireless Attacks
+
+05) Forensics Tools
+	Kumpulan tools yang berhubungan dengan digital forensics. Forensic sendiri digunakan untuk melakukan penyelidikan-penyelidikan pada kasus-kasus cybercrime. Forensic dilakukan dengan berbagai tools untuk menganalisa file, software, dan hardware dengan tujuan tertentu.
+
+06) Web Applications
+07) Stress Testing
+	Kumpulan tools yang berhubungan dengan aksi ddos yaitu tindakan flooding yang didatangkan dari kumpulan hosts (lebih dari satu hosts).
+
+08) Sniffing & Spoofing
+
+09) Password Attacks
+
+10) Maintaining Access
+	Biasanya setelah melakukan explotasi dan PE, attacker akan meninggalkan pintu masuk (backdoors) yang nantinya akan membuka suatu kesempatan atau peluang untuk kembali memasuki sistem tersebut kapan saja. Sub tools ini berisi tools-tools untuk menciptakan backdoor-backdoor tertentu.
+
+11) Hardware Hacking
+
+12) Reverse Engineering
+	Reverse engineering adalah suatu proses yang bertujuan untuk menemukan prinsip-prinsip teknologi perangkat tertentu, objek, atau sistem melalui analisis struktur, fungsi, dan operasi. Reverse engineering analisis hardware untuk keuntungan komersial atau militer.
+
+13) Reporting Tools
+	Lebih kepada tools dan aplikasi untuk penggunaan dokumentasi dan laporan aksi atau kegiatan-kegiatan.
+
+14) Extra Tools
+	Digunakan untuk bermacam-macam kebutuhan lainnya.
+
+15) Accessosies Tools
+	Peraltan Umum Aplikasi desktop. (calculator, internet, text editor dan lain lain)
+
+16) System Tools
+	Peralatan dan Konfigurasi System (pengaturan desktop dan lain lain yang berhubungan dengan pengaturan dan konfigurasi)
+Ricardo
+contoh aircrack-ng sekarang versi misal 4.5.4 kita akan gunakan itu di packet kita>>> ohh ya mas
+Ricardo
+Ricardo Siahaan
+Ya mas saya sudah baca itu
+Anda mengirim
+oh ya ini project rahasia ya jangan di publikasikan nanti jika sudah siap kita perkenalkan ke publik. karena ingin fokus biar ngga ditanya2 kapan rilis
+Zaki
+Zaki Ramdani
+Ricardo
+Ricardo Siahaan
+Ya mas , saya akan rahasiakan  , jujur
+Anda mengirim
+ya boleh tapi kita repacking ulang paketnya karena berbdea kategorynya
+Zaki
+Zaki Ramdani
+Anda mengirim
+yap.. jika toolsnya gui ya gui
+Zaki
+Zaki
+Zaki
+Zaki Ramdani
+Anda mengirim
+mantapp...didata aja
+Zaki
+Zaki Ramdani
+Anda mengirim
+Ricardo
+Ricardo Siahaan
+Mas , kalau di.paaang tools wirels attack itu pada xenta, apakah bisa sekarang?? Terima kasih
+Anda mengirim
+belum ada karena itu baru kategori / rak nya dan barangnya belum ada di rak
+Anda mengirim
+jadi itu saya baru buat tokonya sedangkan yang dijual belum ada. kita lagi cari yang mau di jual apa saja...kurang lebih seperti itu
+Ricardo
+Ohh ya mas
+Ricardo
+Ricardo Siahaan
+Mas maaf di luar topik? Mas apakah sudah bisa fd nya buat iso lain
+Anda mengirim
+namanya memang mirip backtrack karena saya penggemar backtrack saya mengenal linux pertama dari backtrack
+Ricardo
+Ricardo Siahaan
+Kalau saya pertama mengenal linux dari ubuntu mas
+Zaki
+Zaki Ramdani
+Anda mengirim
+bisa hacktack bisa satu flashdisk dengan xenta installer
+Zaki
+Zaki Ramdani
+Ricardo
+Ricardo Siahaan
+bisa hacktack bisa satu flashdisk dengan xenta installer>>> maksudnya mas
+Anda mengirim
+pakai rufus buat bootable xenta terus hacktrack di mount isonya copy semua isonya ke flasdisk xenta itu terus setting grub isolinux.cfg tambhkan hacktrack
+Anda mengirim
+nanti saya kasih confignya jika hacktrack sudah siap
+Anda mengirim
+nanti saya kasih confignya jika hacktrack sudah siap
+Zaki
+Zaki Ramdani
+Ricardo
+Ricardo Siahaan
+pakai rufus buat bootable xenta terus hacktrack di mount isonya copy semua isonya ke flasdisk xenta itu terus setting grub isolinux.cfg tambhkan hacktrack>>> maksud saya , saya ingin dua iso yaitu windows dan xenta? Apakah bisa satu fd 2 iso nya?
+Anda mengirim
+Anda mengirim
+ohh pakai yumi
+Pengguna Messenger memulai panggilan telepon.
+Satu kontak bergabung ke obrolan video.
+Obrolan video berakhir.
+Zaki
+Zaki Ramdani
+Ricardo
+Ricardo Siahaan
+Ya mas, namun di otak atik lagi tisak iso nya biar bisa jadi 2 isonya
+Anda mengirim
+ngga ko
+Ricardo
+Ricardo Siahaan
+Ya mas
+Anda menambahkan peserta ke grup.
+27 Mei 2017
+27/05/17 13.51
+Anda mengirim
+ngobrol disini aja @sonny
+Ok ty. Hi all
+Vulnerability assesment (VA) contohnya apa ?
+Anda mengirim
+http://tools.kali.org/tools-listing
+ok,, (y)
+Kernel nya ?
+Anda mengirim
+import dari debian...selanjutnya independet
+hmm, version ?
+Anda mengirim
+ngga ada versi kita pakai rolling
+Berarti terbaru ya ?
+kernelnya
+Anda mengirim
+code nama hanya ada  "revolution" (rolling)
+Maksudnya gw ga ngerti architecture nya. Pake kernel versi brp.
+Anda mengirim
+saat ini pakai kernel LTS 3.16.xx
+Ricardo
+Ricardo Siahaan
+http://tools.kali.org/tools-listing
+Itu link buat apa mas, terus apakah sudah bisa di install toolsnya.. terima kasih
+Kali Tools | Kali Linux Tools
+Anda mengirim
+arch i386 saat ini
+lts 4.9.30 susah ya ?
+Anda mengirim
+refenrensi tools pentest ...belum perlu packing ulang
+Ricardo
+Ricardo Siahaan
+http://tools.kali.org/tools-listing
+Itu link buat apa mas, terus apakah sudah bisa di install toolsnya.. terima kasih
+
+Mas bolehkah di jawab?? Terima kasih
+Kali Tools | Kali Linux Tools
+Anda mengirim
+blm coba karena ini kan OS Live system jadi tujuannya live di semua komputer tua - baru
+Anda mengirim
+de hanya pakai Mate
+Ricardo
+Ricardo Siahaan
+Ohh, kapan live system nya mas
+Anda mengirim
+live system itu maksudnya os yang di booting dari dvd atau usb tanpa perlu install dan osnya sudah siap pakai ...
+Anda mengirim
+jadi cukup taro flashdisk colok dimana2 siap tempur hehe....rencana high compress agar sytemnya berukuran kecil... mirip slax gitu
+package manager ?
+Ricardo
+Ricardo Siahaan
+Ohh yah mas? Maaf mas kapan bisa di pake tools nya , terus apakah sudah di kecilkan high compernya ?? Terima kasih
+Anda mengirim
+apt
+Anda mengirim
+saat ini baru sistemnya yang sudah siap toolsnya kan kita lagi data mana saja yang mau di pasang ke osnya
+Anda mengirim
+saat ini core osnya 500mb masih saya otak atik biar 300mb bahkan kurang
+Ricardo
+Ricardo Siahaan
+Ohh yah mas, saya tunggu dan bersabar mas
+Tool$ sih yg penting yg umum2 aja dulu, yang penthink cepet release biar tau respon,, + gre8 support
+including FAQ, question forum.
+Anda mengirim
+ngga mau buru2 rilis...hehe.. kita bangun aja sampai lengkap karena ini menjadi pondasi dasar untuk selanjutnya...
+gre8 ok (y)
+Ricardo
+Ricardo Siahaan
+Betul mas, bangun sampai lengkap maa, aaya doakan semoga sukses mas
+i bole pasang bio status,, Indonesian Pentest Linux Dev ? 😛
+Anda mengirim
+inikan rolling ya bukan fixed riliss
+bagus sih rolling gw suka
+bleeding edge apa lagi
+Anda mengirim
+boleh selagi ngga ada nama os ini disebut...
+Ok. no name.
+what about that ss ?
+Anda mengirim
+kelebihan os ini: rolling, independent, live sistem only.
+kelemahan nya usb itu lemot
+Anda mengirim
+jangan lahhh sama aja bohong dong ketahuan
+iya lupa ada nama
+kalo list tools nya ?
+Anda mengirim
+?? ngga ko saya pakai usb sudah di test di warnet...muanteppp keunceng dan ngacir
+dipake programming ?
+Anda mengirim
+kalo list tools nya kan lagi kita proyek ni data...
+ga bole dipublish ?
+Anda mengirim
+ngga target fokus pentest
+Anda mengirim
+ngga target fokus pentest
+ok gre8 (y)
+karena pentest sendiri berawal dari programming.
+Anda mengirim
+ya jangan dulu..nanti kalu dasar sudah fix iso jadi baru publish...biar ngga ada revisi revisi isonya
+ok bio only then (y) ty
+Anda mengirim
+ok sudah paham ya semua...yu lanjut data barang barang yang mau di pasang (tools) buat pakai text editor kallau ada kasih info link dari toolsnya dapat dari mana
+Well, gw cuma kali linux aja sih. dia terbagus. jadi tool$ kali aja menurut gw,,
+Anda mengirim
+ya boleh...data aja ya
+Anda mengirim
+*bebas
+Ricardo
+ok sudah paham ya semua...yu lanjut data barang barang yang mau di pasang (tools) buat pakai text editor kallau ada kasih info link dari toolsnya dapat dari mana
+
+Saya sah paham mas?? Terus cara datanya gimana mas
+Ricardo
+Ricardo Siahaan
+Sah=sudah
+Anda mengirim
+ya cari cari boleh di dracos atau kali atau blackbox atu parot lihat tools nya apa saja cukup data saja...
+Anda mengirim
+*backbock
+Anda mengirim
+Information Gathering
+
+ 1) acccheck					
+
+ 2) ace-voip					
+
+ 3) Amap					
+
+ 4) Automater					
+
+ 5) bing-ip2hosts				
+
+ 6) braa					
+
+ 7) CaseFile					
+
+ 😎 CDPSnarf					
+
+ 9) cisco-torch	
+
+
+
+Contoh jika ngga tau itu kategori apa tulis aja list
+i think our list good enough
+Ricardo
+Ricardo Siahaan
+Mas saya belum pakai linux dan dracos atau backbock, terus boleh kasih seperti gambaran cara data nya?? Terima kasih
+Anda mengirim
+ya broesing lah....contoh "list tools dracos"
+Ricardo
+Ricardo Siahaan
+Ohh ya mas, saya akan browsing
+Anda mengirim
+27 Mei 2017
+27/05/17 14.41
+Ricardo
+Ricardo Siahaan
+Mas berarti saya harus install linux atau dracos dulu ya mas, buat data tools nya??
+Tool test
+Ricardo
+Ricardo Siahaan
+Maksudnya mas sony??
+Kalo kamu mau masukin tool ke list, test dulu tool nya
+Anda mengirim
+jangan data aja browsing biasanaya ada
+Anda mengirim
+jangan di test nanti saja testnya kita data aja dulu
+Zaki
+Zaki Ramdani
+Ricardo
+Kalo kamu mau masukin tool ke list, test dulu tool nya
+Mas sony saya data aja dulu
+Ricardo
+Ricardo Siahaan
+Mas sony gambarnya ga kelihatan
+gambar ?
+ok data aja, terserah kata boss Pak @Dindin Hernawan 😁👏👌🙏
+Ricardo
+Ricardo Siahaan
+Ya gambarnya mas sony
+liat aja di album
+Ricardo
+Ricardo
+Ricardo Siahaan
+Saya lagi mencari cara data tools nya pada linux
+Anda mengirim
+Ricardo
+Ricardo Siahaan
+Album di grup mana mas sony
+accept friend dl, ntar gw mention
+Anda mengirim
+Anda mengirim
+We should bring our own original logo'$. Bt is so yesterday,,
+Ricardo
+accept friend dl, ntar gw mention
+Ya mas sony
+Ricardo
+Mas dindin itu contoh data tools kahh ???
+Ricardo
+Ricardo Siahaan
+We should bring our own original logo'$. Bt is so yesterday,,
+
+Mas bolehkah menggunakan bhs indo?? Terima kasih
+Anda mengirim
+itu icon kategory dan wallpaper saya buat variasi warna
+improve your english. That OS use many english 🙂 (y)
+Ricardo
+Ricardo Siahaan
+Ohh ya mas dindin
+Anda mengirim
+maksudnya bahasa indo
+Ricardo
+Ricardo Siahaan
+Mas sony : i no speak english
+Anda mengirim
+Ricardo
+Ricardo Siahaan
+maksudnya bahasa indo
+
+Ya mas dindin bahasa indonesia
+while you reading your OS, the tool$, automaticly u speak english 🙂
+Ricardo
+Ricardo Siahaan
+ya mas sony, saya akan belajar bahasa inggris mas sony
+Improving your English that would a gre8 foundation for your IT $skills,, 😉 (y)
+tanya di sini aja Richard, biar kebaca sama yg lain 🙂
+Ricardo
+Ya maa sony
+Ricardo
+Ricardo Siahaan
+Aaya copy dulu chat nya
+Anda mengirim
+ya masih ada translate ko hihi.. inggis saya juga kaku
+saya juga kaku, makanya di asah, bener salah, ngaco itu hal wajar, orang bule aja masih suka ngaco
+Ricardo
+Ricardo Siahaan
+Mas bolehkah saya bertanya lagi?? Mas itu maksudnya data tools , seperti apa?? Terus kalau mau ingin mengenal tools harus install linux atau dracos kahh?? Mohon sarannya mas?? Terima kasih
+gw ngobrol sama orang bule aja, dia pengertiin. ga kaya di sini, malah sotoy dibully 😃
+Ricardo
+Ricardo Siahaan
+Apalagi saya mas lebih kaku menggunakan bhs inggris
+then u you should start practicing.
+km pake OS apa ?
+Anda mengirim
+maksudnya ya di data toolsnya untuk pentest gambarnagnya seperti ini coba data tools internet "firefox,opera,chrome,pidgin,hexchat,evolution,geary dan llll"
+Ricardo
+Meningkatkan bahasa Inggris Anda yang akan menjadi landasan bagi keahlian IT $ Anda>>>  ya mas saya akan meningkatkan bhs inggris saya
+Ricardo
+Maka kamu harus mulai berlatih.>>> ya mas saya akan berlatih
+Ricardo
+saya pake os xenta arok
+Ricardo
+Ricardo Siahaan
+maksudnya ya di data toolsnya untuk pentest gambarnagnya seperti ini coba data tools internet "firefox,opera,chrome,pidgin,hexchat,evolution,geary dan llll"
+
+Ohh yah mas, saya sudah paham
+di arok udah ada nmap ga ?
+Anda mengirim
+ada bisa diinstall manual atau dari apt
+Ricardo
+Ricardo Siahaan
+Di arok sudah ada mas, malahan sudah ada tools fluxion
+Nah itu richard belajar install dulu nmap
+tapi lama kali ya install nmap ?
+Ya itu, kalo dirasa tool nya bagus, masukin ke list.
+Ricardo
+Ya maa saya belajar nmap dulu?? Tapi selain nmap apa aja mas??
+Ricardo
+Ricardo Siahaan
+Cara masukin tools nya ke list gimana mas
+Kalo mw tw versi lengkap nya install Kali Linux atau Dracos.
+Cara masukin tools nya ke list gimana mas ? Ini yang bisa jawab Pak @Dindin Hernawan
+Anda mengirim
+di data saja..pakai text editor nanti saya yang ke listnya
+Ricardo
+Ricardo Siahaan
+Kalo mw tw versi lengkap nya install Kali Linux atau Dracos.
+Ntar aja mas, soalnya notbook saya takut lag, karna saya mau pasang windowa
+Linux enteng koq
+Ricardo
+Ricardo Siahaan
+di data saja..pakai text editor nanti saya yang ke listnya
+Ya mas dindin, ntar saya akan pakai text editor?? Posisi saya sekarang lagi di warnet? Ntaf nalam saya akan pakai text editor
+gre8 (y)
+Anda mengirim
+ok sip
+Ricardo
+Ricardo
+Ricardo Siahaan
+Aaya lagi di warnet mas
+wew maen game, bikin game levih cool 😎
+Ricardo
+Ricardo Siahaan
+Hehehe yooii
+sama nih di net, koneksi butut,, cuma 0,16 mbps
+win 7
+install xampp ga bisa,, 😑
+who is @Zaki Ramdani
+Zaki
+Zaki
+Zaki Ramdani
+biasa nya baik2 aja fm
+Zaki
+Zaki
+Zaki
+Zaki Ramdani
+bukan nya ada tool nya hmei7 itu ?
+Zaki
+Zaki
+Zaki
+Zaki Ramdani
+27 Mei 2017
+27/05/17 19.25
+Ricardo
+Ricardo
+Ricardo Siahaan
+Mas itu sudah ada tool nmap, aircrack dll mas
+27 Mei 2017
+27/05/17 20.24
+Zaki
+Zaki Ramdani
+naic python apa
+Zaki
+Zaki Ramdani
+ada link ?
+Zaki
+Zaki Ramdani
+naic
+Anda mengirim
+Buat filenya pakai tex editor kirim kwsini
+27 Mei 2017
+27/05/17 22.39
+Ricardo
+Ricardo Siahaan
+Maaf mas saya baru on fb, saya malming dulu tadi, mohon maaf kalau saya tadi off dulu??
+
+Mas dindin buat file tools nya gimana?? Terima kasih
+Ricardo
+Ricardo
+Ricardo Siahaan
+Mas letak text editor dimana mas, saya dah cari cari text editor tidak ketemu??
+27 Mei 2017
+27/05/17 23.15
+Anda mengirim
+Ketik xed
+Ricardo
+Mas maaf mas di luar topik?? Mas kalau beli chasan pala nya aja kira kira harga nya berapa, soalnya chasan ku rusak kadang terhubung kadang tidak??
+Ricardo
+Ricardo Siahaan
+27 Mei 2017
+27/05/17 23.46
+Anda mengirim
+beli online saja sekitar dibawah 30ribu
+Anda mengirim
+01) Information Gathering
+
+	• DNS Analysis
+
+	• IDS/IPS Identification
+
+	• Live Host Identification
+
+	• Network & Port Scanners
+
+	• OSINT Analysis
+
+	• Route Analysis
+
+	• SMB Analysis
+
+	• SMTP Analysis
+
+	• SNMP Analysis
+
+	• SSL Analysis
+
+02) Vulnerability Analysis
+
+	• Cisco Tools
+
+	• Fuzzing Tools
+
+	• Nessus Scanner
+
+	• OpenVAS Scanner
+
+	• VoIP Tools
+
+03) Exploitation Tools
+
+	• OS Backdoors
+
+	• Tunneling & Exfiltration
+
+	• Web Backdoors
+
+04) Wireless Attacks
+
+	• 802.11 Wireless Tools
+
+	• Bluetooth Tools
+
+	• Other Wireless Tools
+
+	• RFID & NFC Tools
+
+	• Software Defined Radio
+
+05) Forensics Tools
+
+	• Digital Forensics
+
+	• Forensic Carving Tools
+
+	• Forensic Hashing Tools
+
+	• Forensic Imaging Tools
+
+	• PDF Forensics Tools
+
+	• Sleuth Kit Suite
+
+06) Web Applications
+
+	• CMS & Framework Identification
+
+	• Web Application Proxies
+
+	• Web Crawlers & Directory Bruteforce
+
+	• Web Vulnerability Scanners
+
+07) Stress Testing
+
+08) Sniffing & Spoofing
+
+	• Network Sniffers
+
+	• Spoofing and MITM
+
+09) Password Attacks
+
+	• Offline Attacks
+
+	• Online Attacks
+
+	• Passing the Hash tools
+
+	• Password Profiling & Wordlists
+
+10) Maintaining Access
+
+	• BeEF
+
+	• Dradis
+
+	• Metasploit
+
+	• OpenVas
+
+	• Xplico
+
+11) Hardware Hacking
+
+12) Reverse Engineering
+
+13) Reporting Tools
+
+14) Extra Tools
+
+15) Accessories Tools
+
+16) System Tools
+Anda mengirim
+itu listnya kategori sama sub categori
+Ricardo
+Ricardo Siahaan
+Ohh sama ya mas, cuman ada bagian bagiannya ya mas?
+28 Mei 2017
+28/05/17 00.15
+Anda mengirim
+ya btw toolsnya dapat berapa didata ?
+28 Mei 2017
+28/05/17 15.19
+Anda mengirim
+bagaimana toolsnya apakah sudah dikumpukan
+Sudah
+Anda mengirim
+Kirim kesini
+28 Mei 2017
+28/05/17 16.10
+Cuma nyoba Stressing tool :
+DHCPig
+FunkLoad
+iaxflood
+Inundator
+inviteflood
+ipv6-toolkit
+mdk3
+Reaver
+rtpflood
+SlowHTTPTest
+t50
+Termineter
+THC-IPV6
+THC-SSL-DOS
+Forensic tool : 
+1. foremost
+2. binwalk
+28 Mei 2017
+28/05/17 16.38
+Anda mengirim
+Anda mengirim
+Ok
+Anda mengirim
+Saya mau nyusun ulang menu agar conmpatible dengan tools kali
+Anda mengirim
+Yang lain sudahkah...
+28 Mei 2017
+28/05/17 17.09
+Ricardo
+Ricardo
+Ketik xed
+Mas xed nya yang mana yang dipilih
+Ricardo
+Ricardo Siahaan
+Maaf mas baru on pc
+Anda mengirim
+Itu penyi.ting tex
+Anda mengirim
+Ketik di terminal xed
+Ricardo
+Ya saya ketik mas
+Ricardo
+Ricardo
+Ricardo Siahaan
+Terus yang mana mas, buat lihat tools nya
+28 Mei 2017
+28/05/17 19.04
+Anda mengirim
+copykan saja kesini
+Ricardo
+Ricardo Siahaan
+Sabar mas, lagi dalam ibadah sore mas, lagi kothbah/ceramah
+28 Mei 2017
+28/05/17 20.10
+Ricardo
+Ricardo
+Ricardo Siahaan
+Mas tools letak nya dimana mas
+Ricardo
+Ricardo
+Ricardo Siahaan
+Ini kahh yang harus di copy mas, ini benar bukan tools nmap
+28 Mei 2017
+28/05/17 21.37
+Ricardo
+Ricardo Siahaan
+Mas
+iya itu nmap (y)
+Ricardo
+Ricardo Siahaan
+Ya mas, saya akan copy
+ok
+Ricardo
+Ricardo Siahaan
+Mas tapi kok pas saya tets tulis begini: "cd nmap" kok tidak ada file or directory nya mas
+karena nmap itu bukan folder, tapi aplikasi / program. Coba :
+
+locate nmap
+find nmap
+whereis nmap
+Ricardo
+Ricardo Siahaan
+Nmap 7.01 ( https://nmap.org )
+Usage: nmap [Scan Type(s)] [Options] {target specification}
+TARGET SPECIFICATION:
+  Can pass hostnames, IP addresses, networks, etc.
+  Ex: scanme.nmap.org, microsoft.com/24, 192.168.0.1; 10.0.0-255.1-254
+  -iL <inputfilename>: Input from list of hosts/networks
+  -iR <num hosts>: Choose random targets
+  --exclude <host1[,host2][,host3],...>: Exclude hosts/networks
+  --excludefile <exclude_file>: Exclude list from file
+HOST DISCOVERY:
+  -sL: List Scan - simply list targets to scan
+  -sn: Ping Scan - disable port scan
+  -Pn: Treat all hosts as online -- skip host discovery
+  -PS/PA/PU/PY[portlist]: TCP SYN/ACK, UDP or SCTP discovery to given ports
+  -PE/PP/PM: ICMP echo, timestamp, and netmask request discovery probes
+  -PO[protocol list]: IP Protocol Ping
+  -n/-R: Never do DNS resolution/Always resolve [default: sometimes]
+  --dns-servers <serv1[,serv2],...>: Specify custom DNS servers
+  --system-dns: Use OS's DNS resolver
+  --traceroute: Trace hop path to each host
+SCAN TECHNIQUES:
+  -sS/sT/sA/sW/sM: TCP SYN/Connect()/ACK/Window/Maimon scans
+  -sU: UDP Scan
+  -sN/sF/sX: TCP Null, FIN, and Xmas scans
+  --scanflags <flags>: Customize TCP scan flags
+  -sI <zombie host[:probeport]>: Idle scan
+  -sY/sZ: SCTP INIT/COOKIE-ECHO scans
+  -sO: IP protocol scan
+  -b <FTP relay host>: FTP bounce scan
+PORT SPECIFICATION AND SCAN ORDER:
+  -p <port ranges>: Only scan specified ports
+    Ex: -p22; -p1-65535; -p U:53,111,137,T:21-25,80,139,8080,S:9
+  --exclude-ports <port ranges>: Exclude the specified ports from scanning
+  -F: Fast mode - Scan fewer ports than the default scan
+  -r: Scan ports consecutively - don't randomize
+  --top-ports <number>: Scan <number> most common ports
+  --port-ratio <ratio>: Scan ports more common than <ratio>
+SERVICE/VERSION DETECTION:
+  -sV: Probe open ports to determine service/version info
+  --version-intensity <level>: Set from 0 (light) to 9 (try all probes)
+  --version-light: Limit to most likely probes (intensity 2)
+  --version-all: Try every single probe (intensity 9)
+  --version-trace: Show detailed version scan activity (for debugging)
+SCRIPT SCAN:
+  -sC: equivalent to --script=default
+  --script=<Lua scripts>: <Lua scripts> is a comma separated list of
+           directories, script-files or script-categories
+  --script-args=<n1=v1,[n2=v2,...]>: provide arguments to scripts
+  --script-args-file=filename: provide NSE script args in a file
+  --script-trace: Show all data sent and received
+  --script-updatedb: Update the script database.
+  --script-help=<Lua scripts>: Show help about scripts.
+           <Lua scripts> is a comma-separated list of script-files or
+           script-categories.
+OS DETECTION:
+  -O: Enable OS detection
+  --osscan-limit: Limit OS detection to promising targets
+  --osscan-guess: Guess OS more aggressively
+TIMING AND PERFORMANCE:
+  Options which take <time> are in seconds, or append 'ms' (milliseconds),
+  's' (seconds), 'm' (minutes), or 'h' (hours) to the value (e.g. 30m).
+  -T<0-5>: Set timing template (higher is faster)
+  --min-hostgroup/max-hostgroup <size>: Parallel host scan group sizes
+  --min-parallelism/max-parallelism <numprobes>: Probe parallelization
+  --min-rtt-timeout/max-rtt-timeout/initial-rtt-timeout <time>: Specifies
+      probe round trip time.
+  --max-retries <tries>: Caps number of port scan probe retransmissions.
+  --host-timeout <time>: Give up on target after this long
+  --scan-delay/--max-scan-delay <time>: Adjust delay between probes
+  --min-rate <number>: Send packets no slower than <number> per second
+  --max-rate <number>: Send packets no faster than <number> per second
+FIREWALL/IDS EVASION AND SPOOFING:
+  -f; --mtu <val>: fragment packets (optionally w/given MTU)
+  -D <decoy1,decoy2[,ME],...>: Cloak a scan with decoys
+  -S <IP_Address>: Spoof source address
+  -e <iface>: Use specified interface
+  -g/--source-port <portnum>: Use given port number
+  --proxies <url1,[url2],...>: Relay connections through HTTP/SOCKS4 proxies
+  --data <hex string>: Append a custom payload to sent packets
+  --data-string <string>: Append a custom ASCII string to sent packets
+  --data-length <num>: Append random data to sent packets
+  --ip-options <options>: Send packets with specified ip options
+  --ttl <val>: Set IP time-to-live field
+  --spoof-mac <mac address/prefix/vendor name>: Spoof your MAC address
+  --badsum: Send packets with a bogus TCP/UDP/SCTP checksum
+OUTPUT:
+  -oN/-oX/-oS/-oG <file>: Output scan in normal, XML, s|<rIpt kIddi3,
+     and Grepable format, respectively, to the given filename.
+  -oA <basename>: Output in the three major formats at once
+  -v: Increase verbosity level (use -vv or more for greater effect)
+  -d: Increase debugging level (use -dd or more for greater effect)
+  --reason: Display the reason a port is in a particular state
+  --open: Only show open (or possibly open) ports
+  --packet-trace: Show all packets sent and received
+  --iflist: Print host interfaces and routes (for debugging)
+  --append-output: Append to rather than clobber specified output files
+  --resume <filename>: Resume an aborted scan
+  --stylesheet <path/URL>: XSL stylesheet to transform XML output to HTML
+  --webxml: Reference stylesheet from Nmap.Org for more portable XML
+  --no-stylesheet: Prevent associating of XSL stylesheet w/XML output
+MISC:
+  -6: Enable IPv6 scanning
+  -A: Enable OS detection, version detection, script scanning, and traceroute
+  --datadir <dirname>: Specify custom Nmap data file location
+  --send-eth/--send-ip: Send using raw ethernet frames or IP packets
+  --privileged: Assume that the user is fully privileged
+  --unprivileged: Assume the user lacks raw socket privileges
+  -V: Print version number
+  -h: Print this help summary page.
+EXAMPLES:
+  nmap -v -A scanme.nmap.org
+  nmap -v -sn 192.168.0.0/16 10.0.0.0/8
+  nmap -v -iR 10000 -Pn -p 80
+SEE THE MAN PAGE (https://nmap.org/book/man.html) FOR MORE OPTIONS AND EXAMPLES
+Ricardo
+Ricardo Siahaan
+Mas itu tools nya sudah ku vopy
+Ya ty. Versi online browser nya juga ada.
+Ricardo
+karena nmap itu bukan folder, tapi aplikasi / program. Coba :
+
+locate nmap
+find nmap
+whereis nmap
+
+Ohh yah mas saya akan coba
+Ricardo
+Ricardo Siahaan
+Seperti apa versi online browser nya mas
+Sama aja. Cuma ga perlu install.
+Ricardo
+Ohh
+Ricardo
+Mas dindin kemana , kok off
+Ricardo
+Ricardo Siahaan
+Mas sony apa lagi tools nya yang saya copy kan lagi
+28 Mei 2017
+28/05/17 22.38
+Anda mengirim
+Mana toolsnya han
+Anda mengirim
+Sepeetinya saya putuskan...hacktrack ini basednya ke kali tapi dengan citarasa hactrack
+Anda mengirim
+Saya build ulang
+Anda mengirim
+Agar menu nya ngg bentrok sama hactrack saya build banyak yang bentrok
+Anda mengirim
+Anda mengirim
+64 bit de xfce
+Ricardo
+Kenapa bisa benttok mas
+Ricardo
+Permisi mas, maaf diluar topik?? Mas cara menghapus itu gimana mas?? Soalnya saya mau deodexin hp ku mas
+Ricardo
+Ricardo Siahaan
+Anda mengirim
+Kurang tau tuh
+Anda mengirim
+Saya blm oprek android
+Ricardo
+Ohh ya mas, soalnya dari tadi hampir mau bisa ke deodex lewat kitchen
+Ricardo
+Ricardo
+Ricardo Siahaan
+Itu gambaran kitchen nya
+Anda mengirim
+Ohh..saya blm main tu alat coba browsing aja
+Ricardo
+Yah mas,, namun mas tau, tidak, cara hapusnya soalnya ga bisa di hapus
+Ricardo
+Ricardo Siahaan
+Anda mengirim
+ngga tau kalau folder di komputer buka pakai thunar sebagai root ketik diterminal sudo thunar
+Ricardo
+Ohh iyahh, haddeuhh saya lupa tuhh, soalnya wakyu tuhh pernah mas kasih tau sudo thunar
+Ricardo
+Ricardo
+Sudah bisa dihapus mas
+Ricardo
+Ricardo Siahaan
+Saya simpan teks :"sudo thunar" nya biar ga lupa lupa lagi
+Anda mengirim
+duhh saya labilnihh maaf...saya putuskan basednya independt saja ....toolsnya diimport dari kali 🙂 final ....fix
+Anda mengirim
+masalah menu saya akan ubek2 soalnya saya masih belum menyerah...maklum dari tadi pagi ubek ubek menu eror
+Anda mengirim
+projectknya silahkan publikasikan saja saya mau open saja ngga ada rahasiakan lagi...
+Ricardo
+Ya mas gpp, tapi cara import nya harus di install lewat terminal kahh??
+Ricardo
+Semangat mas, semoga bisa mas
+Ricardo
+Ricardo Siahaan
+Ya mas
+Anda mengirim
+maksudnya import itu toolsnya di ambil dari kali terus di packing ulang
+Ricardo
+Ricardo Siahaan
+ohh ya mas
+29 Mei 2017
+29/05/17 01.57
+independent tuh maksudnya gimana ya ? Masih apt based ? Beda Kali sama bt apa ya ?
+Ok saya publish ya ? Ada keterangan lain ? Release date ?
+Apa pros con nya dibanding Dracos ?
+Anda mengirim
+Independent tu corenya diimport dari debian selanjutnya maintenance sendiri kedepannya...
+Anda mengirim
+Maaih apt ko
+Anda mengirim
+Cuma nanti sourcenya ke hacktrack saja
+kalo ga independent ?
+Anda mengirim
+Jangan realse date kenalin aja
+Anda mengirim
+Kalau ngga independent maaih ngikut  sourcenya ke debian
+ok dech. Team name siapa ja ?
+Anda mengirim
+Kita fokus live saja
+Anda mengirim
+Yang disini
+Live OS on USB Flashdisk ?
+Anda mengirim
+Yes
+Yang keliatan cuma 4 org.
+Anda mengirim
+Ya segitu oh ya berbeda dwngN xenta diaini ngga ada divisi
+Anda mengirim
+Semua sama universal dan 1 pimpinan pusat
+Anda mengirim
+Kerja kelompok ngga ada bagi2 tugas
+Anda mengirim
+1 proyek > dikerjakan bareng selesai maju ke tahap berikutnya
+ok
+Purnomo Hadi ga diajak ?
+Anda mengirim
+Dia kan banyak proyek
+iya sih, master kernel itu
+Anda mengirim
+bedewe, kalimonggo linux dia gimana khabar nya
+Anda mengirim
+Msh jln
+banyak kah yg pake ? type umum kaya ubuntu,xenta gitu ?
+Anda mengirim
+Ya dia itu lfs berbeda...
+Anda mengirim
+Kita sudah terbisa dengan debian
+Anda mengirim
+Apt
+di kita / xenta itu ada master kernel nya ga ?
+29 Mei 2017
+29/05/17 02.39
+architecure cuma 32 bit ?
+Ok, jangan nyerah Mas. Sabar aja. Kita support,, 😁👏🙌🙏👌👍
+29 Mei 2017
+29/05/17 04.13
+Zaki
+Zaki
+Zaki Ramdani
+bisa, asal bagus. sebutin apa kelebihannya.
+radare2, hexedit, valgrind, ltrace dkk,
+kelebihan?
+r2 : cli disasm
+hexedit : lightweight hexeditor
+valgrind : memory leak checker
+ltrace , dkk : debugging
+Zaki
+Zaki Ramdani
+29 Mei 2017
+29/05/17 05.00
+bisa diinstall di hd inii ht ? @Dindin Hernawan
+29 Mei 2017
+29/05/17 07.00
+Tools :
+1. https://github.com/leebaird/discover
+2. ettercap
+3. file recovery yg kena shift del.
+GitHub - leebaird/discover: Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit.
+terkadang OS di USB gini guna banget terutama buat teknisi
+
+misal kalau ada PC atau Laptop yg gak bisa masuk windows tapi dia mau install ulang dan perlu buat backup
+
+dan beberapa masalah yg suka ditemui dari orang awam dan ngadu ke IT Support biasanya masalah klasik tentang File Terhapus atau kena supper hidden dari virus, yng lebih parah kalau ada drive yg terformat\\
+29 Mei 2017
+29/05/17 08.38
+Tool : sublister tool untuk mengetahui subdomain pada website, bisa ngumpulin subdomain dri berbagai macam search engine, dan bisa brute force subdomain juga.
+
+Tool utk session hijacking kyk hunt, hamster & ferret, surf jack, jhijack, cookie cadger jga tambahin om.
+29 Mei 2017
+29/05/17 09.09
+Tool vuln anal : vega.
+tools scrab atau blaster
+29 Mei 2017
+29/05/17 16.50
+Ada link sourceforge ? Itu file github yg mana ya ?
+29 Mei 2017
+29/05/17 17.27
+kenapa gada versi install ?
+Anda mengirim
+ngga ada karena tujuan dari awal pembuatan ini untuk live saja...dan saya ngga akan merilis untuk installnya... de hanya 1 yaitu mate saya mau fokus di live sistem dan toolsnya.
+29 Mei 2017
+29/05/17 18.08
+Ricardo
+Ricardo Siahaan
+Sore mas , mas selamat berbuka puasa?? Mas saya mau bertanya? Mas kalau paaang repo linux cuman buat pasang semua tools (katoolin) apakah bentrok sama repo xenta(kambingui) ?? Terima kasih
+Anda mengirim
+Bentrok
+Anda mengirim
+Install tools ja
+Ricardo
+Ricardo Siahaan
+Ya, bwrarati bisa install tools semua(katoolin kahh? I
+29 Mei 2017
+29/05/17 18.30
+Anda mengirim
+Maksudnya install toolsnya saja download terus install manual
+tool : mdk3 masuk ?
+Ricardo
+Ricardo Siahaan
+Ohh ya mas install tools nya,namun  maaf mas saya lupa, maksudnya install manual , lewat terminal kahh??
+Anda mengirim
+Bikin github aja nanti froyk terus rwques pull
+Anda mengirim
+Ya
+29 Mei 2017
+29/05/17 19.41
+Ricardo
+Ricardo
+Ricardo Siahaan
+Mas boleh kahh saya bertanha?? Mas ini kenapa toolsnya ga bisa di install ya
+29 Mei 2017
+29/05/17 20.08
+aircrack-ng aja
+Ricardo
+Ricardo Siahaan
+Ya , mas
+Anda menambahkan Tentang Mu Pengingat ke grup.
+30 Mei 2017
+30/05/17 00.52
+Anda mengirim
+Anda mengirim
+# DONT EDIT OR REMOVE THIS CODE / SOURCES MAIN
+
+# Hack Track Revolution "2017.1"
+
+deb http://downloads.sourceforge.net/project/hacktrack/revolution revolution main contrib non-free
+
+
+
+# Hack Track Tools "2017.1"
+
+deb http://downloads.sourceforge.net/project/hacktrack/tools tools main contrib non-free
+Anda mengirim
+saya membuat repository ada 2 yaitu revolution dan tools. revolution berisi repo file sistem dan toolsnya saya pisah ke repository tools
+30 Mei 2017
+30/05/17 03.13
+ok
+30 Mei 2017
+30/05/17 10.11
+Ricardo
+Ricardo Siahaan
+Mas namun di timpah aja ga repo itu sama rrpo xenta saya??
+Anda mengirim
+masukin yang toolsnya saja
+Ricardo
+Ricardo Siahaan
+Ya mas
+30 Mei 2017
+30/05/17 11.04
+Ricardo
+Ricardo
+Ricardo Siahaan
+Siang mas, mas ini kenapa ya, kok tidak bisa?? Tolong cara mrngatasinya mas
+Biasain screen shot.
+itu 404 not found.
+Ricardo
+Cara screen shot nya klik f berapa, biasa kalau windows.di f10 atau f12 buat screenshot
+Ricardo
+Ricardo Siahaan
+Maksudnya 404 not found , apa mas, dan juga kenapa
+tombol prtscr
+404 itu artinya file\nya gada, mungkin km salah masukin link.
+Ricardo
+Ohh ya mas, saya akan coba
+Ricardo
+Ricardo Siahaan
+Benar kok mas, linknya dari mas dindin, itu link toolsnya mas
+30 Mei 2017
+30/05/17 11.46
+Anda mengirim
+itu linux buat source.list bukan untuk download..tambahkan saja baris itu ke /etc/apt/sources.list
+30 Mei 2017
+30/05/17 12.01
+Pengingat
+Tentang Mu Pengingat
+Wkw mas anda buka repo nya lalu . tambahkan repo nya!!!
+Anda mengirim
+saya sudah buat grup publik https://www.facebook.com/groups/hacktracklinux
+Gre8 (y) Kwat ga Pak kira2 long term support,,?
+Anda mengirim
+saya kan sudah bilang ini independent jadi ya kelola sendiri 🙂 semua paket debian core lagi digarap ulang repack
+Anda mengirim
+maksudnya secara keseluruhan product,,
+Anda menambahkan peserta ke grup.
+Anda mengirim
+ya benar...kita akan benar2 mandiri
+Anda mengirim
+😃
+Anda mengirim
+Anda mengirim
+ada istilahnya import
+Arti nya butuh forum kuat. Kenapa Ubuntu kuat ? Karena di sana ada AskUbuntu buat full support.
+Maulana
+Maulana Jaelani
+Thanks mas dah di add
+Anda mengirim
+ya benar tapi saya pikir debian juga banyak kesalahan pasti ada kesamaan dengan kali juga masuk
+Menurut Bapak kesalahannya di mana ?
+Anda mengirim
+maksudnya jika ada masalah atau bugs
+Ada contoh kasus Pak ?
+Anda mengirim
+kasus si beragam tapi sampai saat ini saya pakai blm ada masalah...
+ok,, gre8 Sir 😁👏
+Anda mengirim
+yang chat disini sudah saya add jadi pengurus grup : rencana website,grub fb,fb fans dan github saja biar tidak banyak mengurusi soalnya saya pekerjaan double dengan xenta hehe...jadi cukup grub fb,fb fans,web dan github
+Anda mengirim
+developer hanya tersedia chat disini saja ..biar ngga report2 buka wa atau fb >> nyaman disini arsip selamananya kalau wa hp hilang chat hilang
+Maulana
+Maulana Jaelani
+Ya (y)
+30 Mei 2017
+30/05/17 13.13
+Anda mengirim
+Anda mengirim
+akhirnya sukses tampilan waktu selesai booting masuk otomatis ke root / login otomatis 🙂
+Sound$ good to me n simple,,
+Maulana
+Maulana Jaelani
+Oh ya mas disana udah ada dork scanner gak ? Karena setau saya aktifitas hacking tak luput dari dork scanner biar lebih mudah
+Ada contoh ?
+Anda mengirim
+ok catat saja ya tools2 nya...nanti upload ke sini format text
+Maulana
+Maulana Jaelani
+Klo defacer jga banyak yang butuh auto exploit biar lebih mudah dapet mangsa
+Anda mengirim
+kumpulkan sj ya 🙂 kalau ada yang script2..gitu
+Maulana
+Maulana Jaelani
+Ane ada beberapa sc auto exploit bentuknya php karena untuk di pasang di web, oh ya satu lagi halangan dalam membuat dork scanner itu caphta cara biar gk kna caphta login akun google dlu
+30 Mei 2017
+30/05/17 13.48
+Ada yg simple script,,? (y)
+Ricardo
+Ricardo Siahaan
+itu linux buat source.list bukan untuk download..tambahkan saja baris itu ke /etc/apt/sources.list   >>> ya mas, ntar agak magrib soalnya saya lagi di warnet mas
+30 Mei 2017
+30/05/17 17.27
+Anda mengirim
+ROAD MAP PROJECT=>
+
+BUILD CORE ====> DATA TOOLS ====> ARTWORK & MENU =====> INSTALL TOOLS ====> TESTER ====> PUBLISH OR RELEASE
+Anda mengirim
+menu kita mix dari dracos, kali, parot, backbox ===> go lengkap
+Anda mengirim
+# Main Menu of << Hack|Track GNU/Linux
+
+# Maintener Hack Track <hacktracklinux@yahoo.com>
+
+01) Information Gathering
+
+02) Vulnerability Analysis
+
+03) Exploitation Tools
+
+04) Wireless Attacks
+
+05) Forensics Tools
+
+06) Web Applications
+
+07) Stress Testing
+
+08) Sniffing & Spoofing
+
+09) Password Attacks
+
+10) Maintaining Access
+
+11) Hardware Hacking
+
+12) Reverse Engineering
+
+13) Reporting Tools
+
+14) Extra Tools
+
+15) Accessosies Tools
+
+16) System Tools
+
+
+
+===================================================
+
+A B C D E F G H I J K L M N O P Q R S T U P W X Y Z
+
+
+
+00) Top Level Category
+
+	• 00 Sub Category
+
+	  	00 Tools in Sub Category
+
+        00 Tools in Top Level Category
+
+	
+
+Note : * New Category or Tools
+
+=====================================================
+
+
+
+01) Information Gathering
+
+	• DNS Analysis
+
+		dnsdict6 *
+
+		dnsenum *
+
+		dnmap *
+
+		dnsmap *
+
+		dnsrecon *
+
+		dnsrevnum6 *
+
+		dnswalk *
+
+		dnssecwalk *
+
+		dmitry *
+
+		fierce *
+
+		Nmap *
+
+		urlcrazy * 
+
+	• Fingerprint Analysis  * 
+
+	• Firewall Analysis *
+
+		denial6 *
+
+		dumprouter6 * 
+
+		firewall6 * 
+
+		fragrouter6 *									
+
+		fragmentation6 *
+
+		implementation6 *
+
+		implementation6d *
+
+	• IDS/IPS Identification
+
+	• Live Host Identification
+
+		alive6 *
+
+		detect-new-ip6 *
+
+		four2six * 
+
+		inverselookup6 *
+
+		nodequery6 *
+
+		randicmp6 *
+
+		thcping6 *
+
+	• Network & Port Scanners
+
+	• OSINT Analysis
+
+	• Port Analysis *
+
+		braa * 
+
+		hping3  *
+
+		sslsplit  *
+
+		sslyz *
+
+		smtp-user-e *
+
+	• Route Analysis
+
+	• Service Analysis *
+
+		miranda *
+
+	• SMB Analysis
+
+	• SMTP Analysis
+
+	• SNMP Analysis
+
+	• SSL Analysis
+
+
+
+02) Vulnerability Analysis
+
+	• Cisco Tools
+
+	• Fuzzing Tools
+
+	• Nessus Scanner
+
+	• OpenVAS Scanner
+
+	• VoIP Tools
+
+  
+
+03) Exploitation Tools
+
+	• OS Backdoors
+
+	• Tunneling & Exfiltration
+
+	• Web Backdoors
+
+  
+
+04) Wireless Attacks
+
+	• 802.11 Wireless Tools
+
+	• Bluetooth Tools
+
+		bluelog *
+
+		bluesnarfer *
+
+	• GPS Analyssis *
+
+		kismet *
+
+	• Other Wireless Tools
+
+	• RFID & NFC Tools
+
+		rfidiot *
+
+	• Software Defined Radio
+
+		kalibrate-rtl *
+
+		mfoc *
+
+	aircrack *
+
+	asleap *
+
+	besside-ng *
+
+	cowpatty *
+
+	crackle * 
+
+	eapmd5pass *
+
+	macchanger *
+
+	mdk3 *
+
+	pixiewps *
+
+	reaver * 
+
+	wifihoney *
+
+	wifitap *
+
+	
+
+05) Forensics Tools
+
+	• Digital Forensics
+
+	• Forensic Carving Tools
+
+	• Forensic Hashing Tools
+
+	• Forensic Imaging Tools
+
+	• PDF Forensics Tools
+
+	• Sleuth Kit Suite
+
+	• Network Forensics Tools *
+
+		crackle *					
+
+		tshark *
+
+	• Recovery Carving Tools *
+
+		testdisk *
+
+		photorec  *
+
+  
+
+06) Web Applications
+
+	• CMS & Framework Identification
+
+	• Web Application Proxies
+
+	• Web Crawlers & Directory Bruteforce
+
+	• Web Vulnerability Scanners
+
+  
+
+07) Stress Testing
+
+	dhcpig  *
+
+	dos-new-ip6  *
+
+	floodadvertise6  *
+
+	flooddhcpc6  *
+
+	floodmld26  *
+
+	floodmld6  *
+
+	flood_mldrouter6  *
+
+	floodredir6  *
+
+	floodrouter26  *
+
+	floodrouter6  *
+
+	floodrs6  *
+
+	floodsolicitate6  *
+
+	fragmentation6  *
+
+	kill_router6  *
+
+	mdk3  *
+
+	ndpexhaust6  *
+
+	ndpexhaust26  *
+
+	slowhttptest  *
+
+	slowloris  *
+
+	smurf6  *
+
+	termineter  *
+
+	thc-ssl-dos  *
+
+	thcsyn6  *
+
+
+
+08) Sniffing & Spoofing
+
+	• Network Sniffers
+
+	• Spoofing and MITM
+
+  
+
+09) Password Attacks
+
+	• Offline Attacks
+
+	• Online Attacks
+
+	• Passing the Hash tools
+
+	• Password Profiling & Wordlists
+
+  	aircrack  *
+
+	doona  *
+
+	eapmd5pass  *
+
+	cmospwd  *
+
+	cowpatty  *
+
+	enumiax  *
+
+	findMyhash  *
+
+	hash-identifier  *
+
+	hydra  *
+
+	john  *
+
+	mkbrutus  *
+
+	patator  *
+
+	pyrit  *
+
+	rainbowcrack  *
+
+
+
+10) Maintaining Access
+
+	• BeEF
+
+	• Dradis
+
+	• Metasploit
+
+	• OpenVas
+
+	• Xplico
+
+  
+
+11) Hardware Hacking
+
+
+
+12) Reverse Engineering
+
+	asm   *
+
+	constgrep   *					
+
+	disasm 	  * 				
+
+	cyclic 	  *				
+
+	checksec   *					
+
+	elfpatch   *					
+
+	elfdiff   *					
+
+	gdb   *					
+
+	hex   *					
+
+	hexedit   *					
+
+	hexdump   *					
+
+	phd   *					
+
+	unhex  *
+
+	
+
+13) Reporting Tools
+
+
+
+14) Extra Tools
+
+
+
+15) Accessories Tools
+
+
+
+16) System Tools
+30 Mei 2017
+30/05/17 20.29
+Ricardo
+Ricardo
+Ricardo Siahaan
+Selamat malam!Mas link tools nya ga bisa di paste??
+ 
+Mas sony? Tidak bisa screenshot dengan tombol prtSc sysRq
+Anda mengirim
+Buka sebagai root user
+Ricardo
+Sudah bisa mas
+Ricardo
+Setelah di replase/save
+Ricardo
+Ricardo Siahaan
+Apa yang terjadi mas pada sources nya
+30 Mei 2017
+30/05/17 21.21
+Ricardo
+Ricardo
+Ricardo Siahaan
+Mas ini kenapa.ya maz, tolong comentarnya?? Kenapa ga bisa ya?? Cara mengatasinya gimana mas?? Terima kasih
+30 Mei 2017
+30/05/17 21.59
+Anda mengirim
+apt-get update
+Ricardo
+Ricardo
+Ricardo Siahaan
+Mas tetap ga bisa updtae
+Anda mengirim
+coba cek file di etc/apt/sources.list.d/
+Ricardo
+Ricardo
+Itu mas
+Ricardo
+Ricardo Siahaan
+Yang salah dimana yah
+30 Mei 2017
+30/05/17 23.24
+Anda mengirim
+barisnya ada yang kurang tambahkan kalimat setelah sourceforge.net/tools tools main contrib non-free
+31 Mei 2017
+31/05/17 13.04
+Maulana
+Maulana Jaelani
+assalamualaikum apa kabar semuanya ? 🙂
+walaikum salam. baik. km ?
+Anda mengirim
+Agenda HackTrack 2017.1 Revolution
+1. Pembuatan Core System. [finish]
+2. Pembuatan Artwork, Theme, Icons, Wallpaper. [finish]
+3. Pembuatan Repository Core. [finish]
+4. Pendataan Tools. [on proses]
+5. Pembuatan Repository Tools.
+6. Pemasangan & Pengetesan Tools.
+7. Publikasi dan Release
+Maulana
+alhamdulillah baik 🙂 kang saya mau bantu akang tapi ndak tau mau bantu apa 🙁
+Maulana
+Maulana Jaelani
+maklum masih awam
+Anda mengirim
+disini tak ada divisi 🙂 kerja target one for all => bantu data toolsnya github.com/hacktracklinux/menu/
+Maulana
+Maulana Jaelani
+oke kang (y)
+Anda mengirim
+bikin github akun nanti saya tambahkan ke organisasi
+Maulana
+Maulana Jaelani
+udah kang nmanya lucifer07
+Anda mengirim
+Sudah saya invite
+Maulana
+Maulana Jaelani
+oke kang (y)
+Anda mengirim
+https://github.com/hacktracklinux/menu/invitations
+Maulana
+Maulana Jaelani
+udah masuk kang
+Anda mengirim
+sip selamat coding & researching
+Maulana
+Maulana Jaelani
+sip 🙂
+Anda mengirim
+pengeditannya sudah paham kan? dibelang tools ada kode uni [*] itu artinya toolsnya referensi dari kali linux...jika ada refensi baru buat kode unik aja 🙂
+Maulana
+Maulana Jaelani
+oke kang
+31 Mei 2017
+31/05/17 17.20
+Pengingat
+Tentang Mu Pengingat
+Bang saya belum d invite yg di github nih nama saya gekkers
+Anda mengirim
+link akunyya aja dimana
+31 Mei 2017
+31/05/17 20.30
+Maulana
+Maulana Jaelani
+Maaf bang blum banyak ku tambahin keburu bill abis
+31 Mei 2017
+31/05/17 20.54
+Ricardo
+Ricardo
+Maaf mas , saya kemarin habis paketan data,,, sekarang sudah aktif paketan data nya
+Ricardo
+Ricardo Siahaan
+Mas selamat malam ?? Mas saya boleh ikutan buat github?? Namun cara buat github nya gimana? Dan juga apa yang harus saya lakukan untuk akun githubnya
+Maulana
+Maulana Jaelani
+Mungkin mas didin sdang off jadi saya wakilin aja mas buat akun github ntar mas di akun github mas diinvite ke organisasi hacktrack
+31 Mei 2017
+31/05/17 21.24
+Ricardo
+Ricardo
+Ricardo Siahaan
+Mas kalau begini sudah atau belum??
+Maulana
+Check email ada aktivasi akun trus klik
+Maulana
+Maulana Jaelani
+Btw panggil jay aja aku ane masih sma mas
+Anda mengirim
+Usernamenya apa nanti aku invite
+Ricardo
+Username nya siahaan123
+Ricardo
+Ricardo
+Ricardo Siahaan
+Maaf mas kembali ke comentar paling atas?? Mas saya sudah tambah kan text nya?? Namun begini bisa atau tidak?? Maaf bertanya mulu
+Anda mengirim
+Ya itu audah masuk
+Anda mengirim
+Keyringna masih di peebaiki nanti saya kasih script jika audah jd
+Ricardo
+Ricardo Siahaan
+Ya mas
+
+Maksudnya :"keyringna" apa mas
+coba google "linux keyring"
+Ricardo
+Ricardo Siahaan
+Ya mas sony
+Anda mengirim
+Audah di ivinte accept aja
+Anda mengirim
+Buka githubnya
+Ricardo
+Mas sony saya sudah tau keyring itu payload kunci
+Ricardo
+Ya mas dindin
+Ricardo
+Ricardo
+Ricardo Siahaan
+Mas lihat pesannya gimana??
+ini tentang apa ya
+Maulana
+https://github.com/hacktracklinux/menu/invitations
+github.com
+Maulana
+Maulana Jaelani
+Klik th ricardo
+Ricardo
+Ricardo Siahaan
+Ya mas
+404 itu
+Maulana
+Maulana Jaelani
+Kan mas soni blom login ke github klo gk blom di invite
+Ricardo
+Ricardo
+Ricardo Siahaan
+Sudah mas
+udah login
+Maulana
+Dh di invite ?
+Maulana
+Maulana Jaelani
+Mas ricardo bsa ko
+belum kayanya.
+cara diinvite gimana ?
+Ricardo
+Ricardo Siahaan
+Klik linknya aja mas atau copy linknya
+Maulana
+Maulana Jaelani
+Ya 404 lh klo dh di invite bru bsa
+syapa bisa invite ?
+Maulana
+Maulana Jaelani
+Mas didi klo gk anggota lain
+hmm, kalian pada ga bisa ya ? Ya ud ntar gw minta sama Pak didin
+Maulana
+Maulana Jaelani
+Ane on hp
+Ricardo
+Ricardo Siahaan
+Saya on pc , tapi saya ga tau cara invite orang
+saya on notebook quota :v ga brani download 1 gb,, kasian yg punya,, :v
+Ricardo
+Ricardo Siahaan
+Hehehe:v
+Maulana
+Maulana Jaelani
+Off dlu semua keadaan badan lgi kurang sehat
+ok. kecapean ya ?
+Maulana
+Maulana Jaelani
+Penyakit ku lgi kambuh
+Ricardo
+Ricardo Siahaan
+Semoga strong kembali ya mas maulana
+ow sakit paan mank
+Ricardo
+Ricardo Siahaan
+Penyakit patah hati kalli :v
+howhowow
+terus ngpain nih ?
+Ricardo
+Ricardo Siahaan
+Main ml yok mas sony
+apa tuh
+Ricardo
+Ml=mobile lagend
+Ricardo
+Ricardo Siahaan
+Main barang
+ga semfet maen game
+Ricardo
+Ricardo Siahaan
+Ohh ya mas
+ini bikin game aja tersendat. bagi waktu.
+bikin game lebih seru.
+kirain machine learning.
+Ricardo
+Wih sallut dengan mas , mas jago buat apk game?? Apa daya saya dengan kekurangan saya, saya cuman hanya bisa hanya belajar tentang bhs program sama coding sama oprek android, saya mana bisa buat 1 apk apa aja, saya aja buat flymeos kadang brut/gagal di penempatan doang??
+Ricardo
+Ricardo Siahaan
+Arti nya atau.maksudnya machine learning  apa mas
+km biqn OS ?
+Ricardo
+Biqk maksudnya
+Ricardo
+Ricardo Siahaan
+K=n
+itu ngajarin mesin komputer supaya bisa belajar.
+bikin
+Maulana
+Maulana Jaelani
+Kalian editannya di bagian request untuk req ke mas didi  dibelang tools ada kode uni [*] itu artinya toolsnya referensi dari kali linux...jika ada refensi baru buat kode unik aja
+Ricardo
+Saya aja ga bisa buat os?? Saya cuman ingin menguasai bhs program mas secara otodidak, saya ga bisa kuliah karna ekonomi/uang yang tak cukup
+Ricardo
+Ya mas, namun kalau saya kurang paham boleh kahh yolong diajarin cara edit requestnya linux??? Ya mas
+Ricardo
+Bahannya mana mas
+Ricardo
+Ricardo Siahaan
+bikin game lebih seru>>> 
+Mas bolehkah share/bagi ilmunya?? Untuk buat apk apa aja?? Kalau mas keberatan, ywdh gapapa mas??
+31 Mei 2017
+31/05/17 23.54
+Anda mengirim
+sejarah hacktrack?
+
+dimulai dari project rahasia ditahun pertengahan 2016.
+
+nama awalnya linux dark..lalu dark hack hingga akhirnya sekarang <<hack|track gnu/linux
+
+
+
+kenapa awalnya dirahasiakan ?
+
+karena pada dasarnya pencipta os ini peracik os ini ingin fokus pada xenta os.
+
+berhubung xenta os sudah selesai dibuild. maka saya putuskan di publickan
+
+
+
+kenapa namanya mirip backtrack ?
+
+karena pada awal mula mengenal linux peracik os ini mengenal linux dari distro backtrack.
+
+ingin mengenang masa masa backtrack dengan de gnome 2. tapi kenapa pilih mate di distro ini?
+
+dikarekana gnome 2 sudah berubah. saya lebih suka model de tradisional maka saya pilih de mate (fork gnome2)
+
+
+
+adakah de lain untuk distro ini?
+
+tidak ada untuk saat ini. hanya ingin fokus core & tools. 
+
+
+
+bisa diinstall ke hardisk ?
+
+tidak, tidak ada fitur ini dikarenakan sesuai tujuan live system. kemungkin akan ada ? ya, tapi tidak dipastikan waktunya.
+
+
+
+tujuan awal?
+
+ pembuatan project ini didasarkan kepada ingin menciptakan suatu distro
+
+yang hanya fokus kepada live sistem os. dan di khususkan penetresing. disamping itu
+
+wujud realisasi dari cita cita pencipta os ini. sesuai slogannya
+
+"my dream is good hacker"
+
+
+
+kenapa hanya live saja ?
+
+dikarenakan saya seorang servise komputer pada flasdisk saya terdapat xenta os botabble, slax, dlcd, hbcd
+
+dos, grml. tujuanya agar bisa bersama dalam satu flasdisk. tanpa ada bentrok.
+
+
+
+dan kepraktisannya itu. tidak usah install ke hdd atau flashdisk. cukup boot saja dari fd / micro sd
+
+dan pentest dimana mana (warnet,pc,laptop,notebook, pc temen :V, kantor dan ll)
+
+
+
+kenapa debian tidak kali atau lain ?
+
+karena ini bukan distro remastering. sama saja dong kalau pilih kali namnya duplikasi dan buat labe
+
+sendiri. dikarenakan ingin membuat dan mengembangkan inti sistem sendiri.
+
+
+
+keunikan ?
+
+* buatan indonesia. untuk indonesia
+
+* live system tanpa install siap pakai dengan tools siap pakai.
+
+* high compress filesystem.squashfs
+
+* repository core dan tools dipisah
+
+* fokus di live system
+
+
+
+inti os ?
+
+hacktrack inti os dibuat dengan debootstrap dari minbase debian jessie
+
+selanjutnya inti osnya nantinya dikembangkan sendiri hingga akhirnya mandiri. 
+
+itu yang saya maksud dengan independent.
+
+
+
+metode build os ?
+
+menggunakan teknik chroot dengan script2 bash pada terminal.
+
+tools utamanya.
+
+debootstrap squashfs-tools debconf isolinux syslinux syslinux-utils
+
+tools pada mode chroot
+
+wget sftp nano
+Ricardo
+Ricardo Siahaan
+1 Juni 2017
+01/06/17 02.08
+ada tutor$ tools ?
+1 Juni 2017
+01/06/17 03.10
+Maulana
+Maulana Jaelani
+sahur sahur bangun kuy pada sahur
+1 Juni 2017
+01/06/17 03.37
+mw
+1 Juni 2017
+01/06/17 21.19
+Ricardo
+Malam mas dindin mas sony mas maulana?? Saya ingin bertanha? Ini request tools nya fi taruh mana ya? Terima kasih
+Ricardo
+Ricardo Siahaan
+Maulana
+Maulana Jaelani
+Di github hacktrack => menu => requ
+Ricardo
+Ricardo Siahaan
+Anda mengirim
+ya edit yang request
+Ricardo
+Ricardo Siahaan
+Itu bukan mas menu>request
+Anda mengirim
+https://github.com/hacktracklinux/menu/edit/master/request
+Anda mengirim
+tu link editnya
+Anda mengirim
+ya
+Ricardo
+Ricardo Siahaan
+Editnya cuman tambahkan di belakang doang yaitu link aja kann??
+Maulana
+Maulana Jaelani
+Yups
+1 Juni 2017
+01/06/17 21.59
+Anda mengirim
+Menu sudah selesai dibuat tinggal filtering.... jadi di setiap menu ada 1-3 tools
+Maulana
+Maulana Jaelani
+Ada lagi gak bang yang bisa ane bantu ?
+Tutor$ tools (y)
+Zaki
+Zaki Ramdani
+Anda mengirim
+bantu isiin link toolsnya dari database ke menu
+Maulana
+Maulana Jaelani
+Udah zak
+Anda mengirim
+ngrok sudah
+Zaki
+Zaki
+Zaki
+Zaki Ramdani
+Anda mengirim
+saya buat untuk candidate , candidate adalah menu yang nantinya di terapkan di hacktrack
+Maulana
+Maulana Jaelani
+Oke kang ntar nunggu bill ada yg kosong sdang full disini, maklum kang anak net
+Jaga net tah maulana ?
+Maulana
+Maulana Jaelani
+Social-engineer Toolkit masukin kang tool mantep tuh klo yg bsa makenya mah
+Zaki
+Zaki
+Zaki
+Zaki Ramdani
+Anda mengirim
+Ya nanti kita disqusi
+Anda mengirim
+Nanti nika kita selesai kita kaaih ke grub biar direview
+Maulana
+Maulana Jaelani
+Gak kang 🙂
+Anda mengirim
+Candidate
+Ricardo
+Ricardo Siahaan
+mas aircrack saya kasih link nya mas ??
+Anda mengirim
+Aircrack paati ada
+Maulana
+Maulana Jaelani
+oke sip ane mulai masukin2
+Ricardo
+Mas susah saya masukin link aircracknya
+Ricardo
+Ricardo Siahaan
+Susah=sudah
+Maulana
+Maulana Jaelani
+mas yg dari req blom pada masuk di db ?
+Anda mengirim
+Cek dulu di db jika blm tambahkan
+Ricardo
+Ricardo Siahaan
+Db maksusnya mas??
+Maulana
+Maulana Jaelani
+database
+Ricardo
+Ricardo Siahaan
+Ohh yah
+Maulana
+yang ini maksudnya apa? mau masukin nya gmna gagal paham sama yg ini ?
+Change mac 
+Arp
+dumper
+brute
+ddos
+sqlmap
+midm
+vpn account
+port scanwr nmap
+Maulana
+Maulana Jaelani
+yang blom masuk db nh
+Xray
+scrab 
+blaster 
+ferret 
+surf jack 
+jhijack 
+jga
+sublister
+Social-engineer Toolkit [*] https://github.com/trustedsec/social-engineer-toolkit/ set/
+oclHashcat 
+Dnsniff 
+gcc
+ngrok
+Anda mengirim
+masukin paling atas aja
+Maulana
+Maulana Jaelani
+Change mac 
+Arp
+dumper
+brute
+ddos
+midm
+vpn account
+ini semua tool ? link pengembangnya ? 
+setauku yg diatas bukan nama toolnya
+Anda mengirim
+masukin aja ke db :V
+Zaki
+Zaki Ramdani
+Anda mengirim
+? tools nanti serching
+coba aja masukin ddos loic hoic.
+(y)
+Zaki
+Zaki
+Zaki Ramdani
+why ?
+Zaki
+Zaki Ramdani
+Anda menambahkan Tot ke grup.
+Maulana
+Maulana Jaelani
+klo ddos enaknya pke pc zombi klo pasti downnnya
+cara pake pc zombie ?
+Maulana
+Maulana Jaelani
+trojan
+cara trojan ?
+Maulana
+Maulana Jaelani
+lma klo di jelasin kang searching aja
+Exactly, tentang inilah HackTrack. Tanpa penjelasan, sulit untuk maju. 🙂
+Maulana
+klo yg attack lan masuk kmna ? https://blackarch.org/?.html" title=" blackarch-? "> blackarch-?
+Maulana
+Maulana Jaelani
+Social Engineer Toolkit ini jga bisa buat simple trojan
+Nah detail dari isi trojan itu sendiri apa ?
+Maulana
+Maulana Jaelani
+kita bisa kemdaliin pc or android dari jarak jauh
+Ya itu hasilnya, tapi cara kerja source code program itu sendiri gimana ?
+*program trojan
+Zaki
+Zaki Ramdani
+Maulana
+Maulana Jaelani
+kita buat trojan > sebar > ada yg buka > otomatis jadi korban
+Zaki
+Zaki Ramdani
+Cara buat trojan ?
+Zaki
+Zaki
+Zaki Ramdani
+Maulana
+cara buat nya macam macam
+Maulana
+Maulana Jaelani
+ada banyak cara
+Zaki
+Zaki
+Zaki Ramdani
+Ada simple source code nya ?
+Zaki
+Zaki Ramdani
+ok
+Zaki
+Zaki Ramdani
+ow, ok. Jadi pake script metasploit payload ya.
+Zaki
+Zaki Ramdani
+Cara cari database payload gimana ?
+Zaki
+Zaki Ramdani
+Btw msf / metasploit ntar masuk listing tools ?
+Pengingat
+Tentang Mu Pengingat
+Maksud bang sony klo jadi pentester harus paham script . maksud nya logika nya . langkah sistematik nya trojan itu kya gmana ..
+Zaki
+Zaki Ramdani
+Ya kira2 seperti itu (y) 😃
+Zaki
+Zaki Ramdani
+Pengingat
+Tentang Mu Pengingat
+Sorry klo cuman tau arti dari code tpi gk afal kode nya gmana..??
+Zaki
+Zaki Ramdani
+Gpp (y) Ntar maqn diperdalam aja,, (y)
+kenafa team rabbit,,?
+Zaki
+Zaki Ramdani
+Contoh dari tau tapi ga apal ?
+Pengingat
+Tentang Mu Pengingat
+Mksut nya??
+Sorry klo cuman tau arti dari code tpi gk afal kode nya gmana..??
+Pengingat
+Tentang Mu Pengingat
+Iy knapa.
+Contohnya apa ?
+Maulana
+dh di pindahin ke db semua
+Maulana
+Maulana Jaelani
+tinggal pindah ke kandidate
+Pengingat
+Tentang Mu Pengingat
+Coontoh lu mau bkin key log . setiap orang neken tombol x semua data masuk ke data pc lu. Nah lu kasih ajh perintah kode program nya...
+Zaki
+Zaki Ramdani
+Anda mengirim
+ok good (y) you got the algorithm of keylogger, which zombie ddos would be more complex,, 🙂
+Pengingat
+Tentang Mu Pengingat
+Gw emang suka proggraming tpi gk suka latihan tiap harii ..wkwk klo dulu iyh
+Jadi sekarang busy ngpain ?
+Pengingat
+Tentang Mu Pengingat
+Haaah ya iseng- iseng ajh ngapain kek
+Ngisi TTS 😛
+Maulana
+Maulana Jaelani
+ngotak atik site dari kg sony bikin pala puyeng
+yang mana ?
+Maulana
+Maulana Jaelani
+ind ply
+hahha (y) udah pake apa aja ?
+Pengingat
+Tentang Mu Pengingat
+Apa nya.
+http://admin.indoplay.com/login/login.html
+admin.indoplay.com
+Zaki
+Zaki Ramdani
+Maulana
+Maulana Jaelani
+angkat tangan dh :v
+Pengingat
+Tentang Mu Pengingat
+Maaf bang sony . pengetahuan saya kurang soal nya udah jarang serching
+Zaki
+Zaki
+Zaki Ramdani
+pake anonymox
+Maulana
+enak zenmate
+Maulana
+Maulana Jaelani
+kgk lemot ip hk
+that's ok. emang itu site highly secure. Ada reward bwt yg bisa.
+Zaki
+Zaki
+Zaki Ramdani
+ya apapun lah ip spoofing.
+yes.
+Zaki
+Zaki Ramdani
+Maulana
+Maulana Jaelani
+hahah  :v
+Pengingat
+Tentang Mu Pengingat
+Kya nya cuman nemuin site login nya doang nieh.??
+Zaki
+Zaki Ramdani
+Maulana
+Maulana Jaelani
+klo mau nemu search in google whit this dork "site login site inurl:admin" / "site intext:admin"
+Zaki
+Zaki Ramdani
+Pengingat
+Tentang Mu Pengingat
+Google globe tuh..
+Zaki
+Zaki Ramdani
+Pengingat
+Tentang Mu Pengingat
+Haaahhh
+Maulana
+Maulana Jaelani
+nh itu klo bejo bsa pke 1 'or' 1 '=' 1
+Zaki
+Zaki Ramdani
+Pengingat
+Tentang Mu Pengingat
+Udh lah belajar ajh gk usah pada tebar pesona .. Kerjain ajh project nya
+Maulana
+Maulana Jaelani
+ada banyak basic pass tuh
+Zaki
+Zaki Ramdani
+Maulana
+Maulana Jaelani
+hahahh nungguin chat doi lama macam keong mending chat sini seru :v
+Pengingat
+Tentang Mu Pengingat
+Klo liat bug pas koding pasti kesel . tpi klo liat program nya jalan kan pasti seneng
+Maulana
+Maulana Jaelani
+yup betul tpi klo work pernah ndak tersirat di benak kenapa bsa work ? klo me sering
+Anda mengirim
+toolsnya sepertinya ini listing populer ya ? http://tools.kali.org/tools-listing
+Maulana
+tinggal masuk di cadidat aja dh masuk db semua
+Maulana
+Maulana Jaelani
+dh ada semua th bang dh pernah tak check
+Pengingat
+Tentang Mu Pengingat
+Klo udh work ywdah gk usah mikir yg jauh dlu.. Klo mau di analisa silahkan analisa . jgn bikin yg lain ikut mkir dong :v
+Maulana
+Maulana Jaelani
+yuk tinggal di fix aja mna yg di masukin mna yg engga
+Anda mengirim
+ya saya pernah bilng kalu tools import dari kali :V target agar pengguna kali juga terbiasa di hacktrack toosnya itu paling dasar / standar
+Anda mengirim
+https://github.com/hacktracklinux/menu/blob/master/candidate bantu filtering jika ada tools yang sama fungsinya pilih yang bagus
+Maulana
+Maulana Jaelani
+bingung masukinnya dmna :\😵😵
+Anda mengirim
+kalau ngga tau kategori pilih di extra tools
+Maulana
+Maulana Jaelani
+bingung milih bagusan mna 😵😀
+Anda mengirim
+:V setiap orang beda2...sementara listing itu saya mau buat candidate simple2 aja itu candidate standar ngikutin kali saya racik sendiri candidate mini
+ok. (y)
+ntar khan ada rolling.
+Maulana
+haster dan ferret jgn di pisah biar joss
+Maulana
+Maulana Jaelani
+hamster and ferret jgn di pisah biar joss
+Anda mengirim
+tools paling standar apa saja ya tolong bantu buat...paling lambat dikumpulkan minggu
+Anda mengirim
+sementara fokus untuk nak warnet wifi + website + jaringan
+Maulana
+Maulana Jaelani
+off dlu bang mau makan lanjut besok see u 🙂
+ok. (y) cemangad,, 😃 (y)
+Anda mengirim
+2 Juni 2017
+02/06/17 01.00
+Maulana
+Maulana Jaelani
+-OOT-
+Disini ada gak yang umurnya 16 tahunan ?
+2 Juni 2017
+02/06/17 01.16
+Tot
+Tot
+Ijin memperkenalkan diri om nama asli saya gatot teguh ramadhan 😃 , terima kasih om telah mengijinkan saya untuk bergabung di hacktrack semoga kedepan nya bisa bekerja sama dengan baik (y) , sekian 😃
+2 Juni 2017
+02/06/17 01.32
+Anda mengirim
+🙂 semangatt
+2 Juni 2017
+02/06/17 18.13
+Maulana
+Maulana Jaelani
+Selamat berbuka btw dh di masukin ke cadidate semua blom yg dri db ?
+Anda mengirim
+Jangan dimasikn semua ke kandidate
+Anda mengirim
+Itu lagi filtering
+Maulana
+Maulana Jaelani
+Owh ya lpa untung  lom masukin
+2 Juni 2017
+02/06/17 18.51
+Zaki
+Zaki
+Zaki
+Zaki Ramdani
+Maulana
+Maulana Jaelani
+Masukin db
+Zaki
+Zaki Ramdani
+Maulana
+Maulana Jaelani
+Dh dlu sholat sholat kuy
+2 Juni 2017
+02/06/17 20.10
+Tot
+Tot
+Sholat tarawih selesai 😃 kuy ngulik om hehe 😃
+2 Juni 2017
+02/06/17 20.38
+Maulana
+Maulana Jaelani
+ku kuy
+3 Juni 2017
+03/06/17 02.44
+Anda mengirim
+Anda mengirim
+hari yang melelahkan....senin aku merilis os hacktrack core untuk tester tools...
+3 Juni 2017
+03/06/17 04.23
+Maulana
+Maulana Jaelani
+Sip
+10 Juni 2017
+10/06/17 11.40
+Anda mengirim
+Lagi upload ISO RC01 untuk pengetesan dan tersedia peralatan untuk complie tools dari source ayooo...bantu test dan complie tools baru
+Mudah-mudahan lancar, aamiin,, (y)
+Bantu test nya gimana ?
+Anda mengirim
+ya... amin oh Penguman : ya sekalian test fluxion ya itu target utama
+Anda mengirim
+fluxion di test
+Caranya ?
+Anda mengirim
+ada di menu fluxion : totorialnya searching aja ... 🙂 ngga sempat bikin doc
+github  ya ?
+Anda mengirim
+http://www.carahackwifi.net/2017/05/cara-hack-wifi-wpa-wpa-2-menggunakan-fluxion-tanpa-directory-router.html
+koq fluxion ga masuk kali ya ?
+404
+Anda mengirim
+ngga itukan custom memu / custom script dari tools yang sudah ada
+Ricardo
+Ricardo Siahaan
+Semoga lancar mas, 
+Cara bantu test nya gimana??
+Anda mengirim
+pakai virtual box atau booting pakai rufus ke usb booting dari lapotop dan test aja toolsnya diutamakan fluxion
+itu link fluxion mati.
+Anda mengirim
+https://github.com/wi-fi-analyzer/fluxion
+itu fluxion tool ada di distro Linux apa ?
+Anda mengirim
+kurang tao saya itu tools optional ...di hacktrack sudah di set default
+Maulana
+Maulana Jaelani
+Bang klo boleh minta link sc rc01 mau test
+Anda mengirim
+Belum masih upload link nya nanti muncul di infokan setelah selesai upload
+Maulana
+Maulana Jaelani
+Oke sip dah toolnya dh semua ? Maaf bang gak bisa bantu apa2
+Anda mengirim
+ya beberapa tools sudah disi bantu test aja bikin bottable pakai rufus atau aplikasi botable usb lainnya...bantu test jalan aja
+Maulana
+Maulana Jaelani
+Oke nunggu link ntar bantu test moga berhasil
+Maap ga bisa test fluxion, karena saya tidak berada di tempat umum.
+Maulana
+Maulana Jaelani
+Fluxion ada di distro apa bang sony
+Hmm, ga tau, tapi enak itu udah compilasi install, tinggal pake.
+Maulana
+Maulana Jaelani
+Owh gth ya
+Kontak meninggalkan grup.
+10 Juni 2017
+10/06/17 13.04
+Ricardo
+Ricardo Siahaan
+Fluxion itu tools mas, bisa di pakai di distro apa aja seperti distro linux, ubuntu, linux
+10 Juni 2017
+10/06/17 22.18
+Anda mengirim
+https://hacktracklinux.github.io/ <===Link Download ISO RC01 (Tester)
+Maulana
+Maulana Jaelani
+Siap test kang
+Anda mengirim
+Maulana
+Maulana Jaelani
+Maulana
+Maulana Jaelani
+Maulana
+Maulana Jaelani
+Maulana
+Maulana Jaelani
+Maulana
+Maulana Jaelani
+Anda menambahkan Rafi Ammar ke grup.
+Anda menambahkan Mochammad Ridwan ke grup.
+12 Juni 2017
+12/06/17 22.44
+Anda mengirim
+http://blog.hacktrack-linux.org/
+
+http://repository.hacktrack-linux.org/
+
+http://www.hacktrack-linux.org/
+Anda mengirim
+ada yang berminat bantu isi konten blog ?
+Maulana
+Maulana Jaelani
+tak bantu klo lgi gak ada kerjaan
+Anda mengirim
+mau username apa
+Maulana
+Maulana Jaelani
+terserah abang aja 🙂
+13 Juni 2017
+13/06/17 03.40
+Zaki
+Zaki Ramdani
+13 Juni 2017
+13/06/17 10.45
+Anda mengirim
+mengisi portal blog
+13 Juni 2017
+13/06/17 11.47
+Zaki
+Zaki Ramdani
+29 Maret 2019
+29/03/19 09.49
+Pengingat
+Tentang Mu Pengingat
+Hola
+Hari ini jam 21.40
+21.40
+Anda mengirim
+The Great Reunion
+Anda mengirim
+minal aidzin wal faidin kawan2 tak terasa waktu begitu berlalu

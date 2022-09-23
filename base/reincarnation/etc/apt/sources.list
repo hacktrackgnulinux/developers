@@ -1,0 +1,16 @@
+# Hack Track Reposition "2020.1"
+# deb http://downloads.sourceforge.net/project/hacktrack/reposition reposition main contrib non-free
+
+# Hack Track Reincarnation "2021.1"
+# deb http://downloads.sourceforge.net/project/hacktrack/reincarnation reposition main contrib non-free
+
+# Hack Track Reposition Tools
+# deb http://downloads.sourceforge.net/project/hacktrack/tools tools main contrib non-free
+
+# Core Debian Jessie "8"
+# deb http://ftp.us.debian.org/debian jessie main contrib non-free
+# deb-src http://ftp.us.debian.org/debian jessie main contrib non-free
+
+# Core Debian Strech "9"
+deb http://ftp.us.debian.org/debian strech main contrib non-free
+deb-src http://ftp.us.debian.org/debian strech main contrib non-free

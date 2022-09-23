@@ -1,0 +1,30 @@
+# Hack Track Reposition "2017"
+# deb http://downloads.sourceforge.net/project/hacktrack/revolution revolution main contrib non-free
+
+# Hack Track Reposition "2020.1"
+# deb http://downloads.sourceforge.net/project/hacktrack/reposition reposition main contrib non-free
+
+# Hack Track Reincarnation "2021.1"
+# deb http://downloads.sourceforge.net/project/hacktrack/reincarnation reincarnation main contrib non-free
+
+# Hack Track Return "2022.1"
+deb http://downloads.sourceforge.net/project/hacktrack/return return main contrib non-free
+
+# Hack Track Reposition Tools
+# deb http://downloads.sourceforge.net/project/hacktrack/tools tools main contrib non-free
+
+# Core Debian Jessie "8" used HTGL 2017-2020
+# deb http://ftp.us.debian.org/debian jessie main contrib non-free
+# deb-src http://ftp.us.debian.org/debian jessie main contrib non-free
+
+# Core Debian Stretch "9" not used
+# deb http://ftp.us.debian.org/debian stretch main contrib non-free
+# deb-src http://ftp.us.debian.org/debian stretch main contrib non-free
+
+# Core Debian Buster "10" not used
+# deb http://ftp.us.debian.org/debian buster main contrib non-free
+# deb-src http://ftp.us.debian.org/debian buster main contrib non-free
+
+# Core Debian Bullseye "11" > HTGL 2022-Present
+deb http://ftp.us.debian.org/debian bullseye main contrib non-free
+deb-src http://ftp.us.debian.org/debian bullseye main contrib non-free

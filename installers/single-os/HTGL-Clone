@@ -1,0 +1,62 @@
+#!/bin/bash 
+# _   _ _____ ____ _           ____ _                  
+#| | | |_   _/ ___| |         / ___| | ___  _ __   ___ 
+#| |_| | | || |  _| |   _____| |   | |/ _ \| '_ \ / _ \
+#|  _  | | || |_| | |__|_____| |___| | (_) | | | |  __/
+#|_| |_| |_| \____|_____|     \____|_|\___/|_| |_|\___|
+# Script for Installing to Disk Permanent      v:2022.1                                                     
+#                                  Write by dindinG41TR3
+# HTGL CLONE
+# Lokasi Disk    : /dev/sda1 
+# Lokasi Squash  : /lib/live/mount/persistence/sdb1/live/filesystem.squashfs (DEFAULTS)
+# Lokasi Clone   : /root/clone/
+
+# 1. Membuat Directory Cloning
+cd /root
+mkdir clone
+cd clone
+mkdir disk mnt
+
+# 2. Mengaitkan Perangkat Disk dan Media Installasi
+mount ./dev/sda1 ./disk
+mount /lib/live/mount/persistence/sdb1/live/filesystem.squashfs ./mnt 
+
+# 3. Proses Pengcopian Sistem Berkas
+rsync -a ./mnt/ ./disk/
+
+# 4. Penutupan KAit Disk
+umount ./mnt
+
+# 5. Tahapan chroot sistem
+cp /etc/resolv.conf ./disk/etc/
+mount --bind /dev/ ./disk/dev/
+chroot ./disk
+mount proc none /proc
+mount sysfs none /sys
+mount devpts none /dev/pts
+export HOME=/root
+export LC_ALL=C
+
+# 6. Tahapan Mengintallasi GRUB
+apt install grub2
+update-grub
+grub-install /dev/sda
+
+# 7. Tahapan Pengisian fstab 
+# GUnakan Perintah "blkid" Untuk mengetahui UUID Disk
+# Silahkan EDit Berkas di Lokasi /etc/fstab
+# ISikan Sesuai dengan UUIDnya
+# Contohnya Dibawah ini
+UUID=b56bb36d-fe71-4928-ae67-791d1491ef48 /    ext4 defaults 1 1
+UUID=d62ce4fb-bac5-45fe-92da-804033bc2729 swap swap defaults 0 0
+
+# 8. Bersih Bersih dan Penutup
+apt-get clean 
+apt-get autoremove 
+rm -rf /tmp/* ~/.bash_history
+umount /proc 
+umount /sys 
+umount /dev/pts
+exit
+umount chroot/dev
+

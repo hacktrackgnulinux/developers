@@ -1,0 +1,40 @@
+Hack | Track 
+
+Merupakan salah satu distribusi linux yang dikhususkan untuk kebutuhan penetrasi jaringan.
+
+HackTrack bukan distribusi linux hasil remastering, tapi dibuat dengan debootstrap dari minbase debian jessie yang
+selanjutnya inti sistem operasi dikembangkan sendiri hingga akhirnya mandiri. (Independent)
+
+HackTrack merupakan project rahasia yang dikerjakan pada pertengahan tahun 2016 oleh 
+Dindin Hermawan : 
+https://www.facebook.com/dindinG41TR3
+
+Kenapa dev HackTrack mengatakan project rahasia? dikarenakan dev mengerjakan 2 OS yaitu Xenta OS dan Juga Hack Track.
+Setelah berselang beberapa lama dan Xenta OS berhasil di release akhirnya Hack Track pun diputuskan untuk di publikasikan
+
+Tujuan dikembangkannya HackTrack sendiri didasarkan ingin menciptakan suatu distribusi linux yang hanya fokus pada live sistem sja dan dikhususkan untuk kebutuhan penetrasi jaringan sesuai wujud realisasi dari cita rasa dev HackTrack yaitu :
+"my dream is good hacker"
+
+Nama dari HackTrack sendiri terinspirasi dari BackTrack linux dimana dev mulai mengenal linux dari BackTrack.
+
+Pada perkembangan awalnya mulai memakai nama Linux Dark, Dark Hack, Hingga Akhirnya menjadi Hack Track gnu/linux seperti sekarang ini.
+
+HackTrack sendiri masih menggunakan sistem live CD, dimana user hanya bisa menggunakan HackTrack pada FD saja, 
+mungkin jika tiba pada waktunya, akan disertakan agar bisa di install pada HD.
+
+#Keunikan 
+* Buatan Indonesia dan untuk indonesia
+* live system dan bisa langsung dipakai.
+* High compress filesystem.squashfs
+* Repository core dan tools dipisah
+
+HackTrack masih dalam pendataan tools dan mungkin dijadwalkan akan di release selepas ramadhan.
+
+List tools yang telah terinstall bisa dilihat pada link dibawah :
+https://github.com/hacktracklinux/menu/blob/master/menu
+
+Jika ada teman-teman yang ingin memberikan saran ataupun masukan bisa langsung disampaikan ke grup atau juga ke masing-masing pengurus grub.
+
+Terima Kasih.
+
+Salam Open Source.
