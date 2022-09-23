@@ -1,6 +1,4 @@
-# dev
-[Lib] Libary untuk Developer HackTrack GNU/linux
-
+Libary untuk Developer HackTrack GNU/linux
 
 #    ____  _   _            _    _ _____               _    
 #   / / / | | | | __ _  ___| | _| |_   _| __ __ _  ___| | __
@@ -14,5 +12,5 @@
 # version           : 2022.1
 # Author            : <<Hack|Track GNU/Linux <hacktracklinux@yahoo.com>
 # Licenced          : Copyright 2017-2022 GNU GPLv3
-# Website           : https://hacktrackgnulinux.github.io/
+# Website           : https://www.hacktracklinux.org/
 ###################################################################
