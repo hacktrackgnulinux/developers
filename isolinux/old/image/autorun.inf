@@ -1,0 +1,8 @@
+[autorun]
+icon=/isolinux/icon.ico
+label=HackTrack GNU/Linux 2022.1 Return
+
+[Content]
+MusicFiles=false
+PictureFiles=false
+VideoFiles=false

@@ -14,7 +14,7 @@
 # jika sudah silahkan logout
 # login lagi
 # Ketik perintak berikut di derektoro user home
-tar -zcvf artwork.tar.gz .config .gconf .cinnamon .mozilla
+tar -zcvf artwork.tar.gz .config .dconf .mozilla
 
 # silahkan copy file artwork.tar.gz ke flasdisk atau micro sd
 # silahkan matikan komputer dan jalankan mode biasa

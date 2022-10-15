@@ -1,0 +1,5 @@
+nmcli radio wifi
+nmcli radio wifi on
+nmcli dev status
+nmcli dev wifi list
+nmcli --ask dev wifi connect 'D I N'

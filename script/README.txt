@@ -11,7 +11,7 @@ Pusataka https://github.com/dindinG41TR3/mydebootstraping
 ###################################################################
 # Default Profile <<Hack|Track GNU/Linux                       
 # version           : 2022.1
-# Author            : <<Hack|Track GNU/Linux <hacktracklinux@yahoo.com>
+# Author            : HackTrack Team (HackTrack) <team@hacktracklinux.org>
 # Licenced          : Copyright 2017-2022 GNU GPLv3
-# Website           : https://hacktrackgnulinux.github.io/
-###################################################################
+# Website           : https://www.hacktracklinux.org/
+##################################################################
