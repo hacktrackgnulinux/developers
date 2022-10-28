@@ -1,0 +1,26 @@
+ORIGINAL TRACK DEBOOTSRAPING 
+Architecture
+
+revolution jessie i386
+ |___________ reincarnation jessie i386 
+ |                    |___________ reposition base scratch i386
+ |                                        |_______________ rebase (original track rebase to bullseye) base bulleseye i686 
+ |                                                         |_______ > DISCONTINUE KEHILANGAN FUNDAMENTAL
+ |                                                         PUBLIC  DISCONTINUE KEHILANGAN FUNDAMENTAL
+ |
+ |________________________________________________________ revolution (original) base jessie i386
+                                                           |_______ >                                                              
+                                                           Dasar Fundamental i386 1 Kode Nama "revolution"
+                                                           RC--------------------------- unlimited
+                                                           Tidak ada Rilis Fixed 
+                                                           PRIVATE CONTINUE
+ <---------------------------------------------------------| 
+ 
+  
+                                                          return base bullseye amd64
+                                                          |__________ >  
+                                                          Dasar Fundamental amd64 Kode Nama setiap rilis RF diganti
+                                                          RC--------------------------- unlimited                         
+                                                          PUBLIC "BIG CHANGE"
+                                                          
+2017 ---------2018/2019-------------- 2020 -------------  2022------------------------ >
