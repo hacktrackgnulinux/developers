@@ -13,7 +13,7 @@ revolution jessie i386
                                                            Dasar Fundamental i386 1 Kode Nama "revolution"
                                                            RC--------------------------- unlimited
                                                            Tidak ada Rilis Fixed 
-                                                           PRIVATE CONTINUE
+                                                           PRIVATE DISCONTINUE
  <---------------------------------------------------------| 
  
   
