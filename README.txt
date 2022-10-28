@@ -1,4 +1,4 @@
-Libary untuk Developer HackTrack GNU/linux
+Dokumentasi dan Informasi Pengembangan Operating System <<Hack|Track GNU/linux 
 
 #    ____  _   _            _    _ _____               _    
 #   / / / | | | | __ _  ___| | _| |_   _| __ __ _  ___| | __
