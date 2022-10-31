@@ -32,7 +32,7 @@ di buat dan di booting media bootable seperti :
 a. DVD/RW Disk
 b. FlasDisk 
 
-Apakah <<Hack|Track GNU/Linux bisa dijakankan tanpa hardisk ?
+Apakah <<Hack|Track GNU/Linux bisa dijalankan tanpa hardisk ?
 <<Hack|Track GNU/Linux bisa berjalan tanpa perangkat hardisk atau ssd didalam 
 sistem komputer atau laptop. anda hanya perlu membuat media bootable flashdisk 
 atau bootable dvd disk. lalu membootingnya di perangkat usb atau dvd rom nya.
