@@ -1,0 +1,69 @@
+<<Hack|Track GNU/Linux
+F.A.Q
+Apa itu HackTrack ?
+<<Hack|Track GNU/Linux itu di khususkan live sistem yang bertujuan 
+untuk pembelajaran dan pengujian peretasan sistem jaringan secara beretika. 
+
+Apa itu Live system ?
+masih ingat dijaman dulu ? sebelum adanya hardisk dan ssd ? orang-orang memboot 
+system dari floppy disk  atau disket ?
+nah, dalam era gen z ini yang kami harapkan orang memahami dulu perbedaan 
+live  sistem dengan system yang tertanam di hardisk dan ssd.
+
+dijaman sekarang menurut kami live system menjadi 2 point utama yang berbeda.
+
+A. LIVE SYSTEM MODE INSTALLER (Other Distro)
+   Live system ini menjalakan systemnya secara live bisa ditest dulu, 
+   tapi menyediakan aplikasi installernya agar system tersebut tertanam di perangkat hdd atau ssd.
+   
+B. LIVE SYSTEM MODE LIVE TOTAL (<<Hack|Track GNU/Linux)
+   Live system ini murni menjalakan systemnya secara live bisa langsung dipakai. 
+   tidak menyediakan aplikasi installernya. karena <<Hack|Track GNU/Linux sudah
+   bisa dipakai secara total tanpa menginstallnya.
+
+
+singkatnya live system, merupakan system dirancang agar bisa berjalan tanpa 
+perlu menginstal kedalam hardware seperti hardisk/ssd. 
+
+lalu dari mana sistem ini di bootingkan ?
+<<Hack|Track GNU/Linux dirancang dalam pembuatannya menggunakan technical hybrid
+technical hybrid disini memungkinkan berkas .iso <<Hack|Track GNU/Linux ini bisa 
+di buat dan di booting media bootable seperti :
+a. DVD/RW Disk
+b. FlasDisk 
+
+Apakah <<Hack|Track GNU/Linux bisa dijakankan tanpa hardisk ?
+<<Hack|Track GNU/Linux bisa berjalan tanpa perangkat hardisk atau ssd didalam 
+sistem komputer atau laptop. anda hanya perlu membuat media bootable flashdisk 
+atau bootable dvd disk. lalu membootingnya di perangkat usb atau dvd rom nya.
+
+Bagaimana cara membuat media bootable <<Hack|Track GNU/Linux ini ?
+<<Hack|Track GNU/Linux bisa di buat di media :
+a. DVD RW/R 
+  - Silahkan download berkas isonya .iso di situs resminya atau mirror
+  - Siapkan 1 Buah Media DVD RW/R Kosong
+  - Buatlah bootable dengan aplikasi burning iso
+  - Boot dari media tersebut
+  - <<Hack|Track GNU/Linux sudah bisa dipakai
+  
+b. FlashDisk
+  - Silahkan download berkas isonya .iso di situs resminya atau mirror
+  - Siapkan 1 Buah Media FlashDisk minimal 4GB
+  - Buatlah bootable dengan aplikasi rufus/ventoy 
+  - Boot dari media tersebut
+  - <<Hack|Track GNU/Linux sudah bisa dipakai
+  
+Tujuan Live System <<Hack|Track GNU/Linux ?
+singkatnya sesuai tag <<Hack|Track GNU/Linux
+yaitu
+ " Distro Penetrasing Live System Burn to USB Flash Disk & Run. "
+ 
+ Tujuan Fundamentalnya .
+ a. <<Hack|Track GNU/Linux bertujuan sebagai sistem live yang praktis yang digunakan
+    oleh individu Penetrasing profesional maupun yang sedang dalam pembelajaran.
+ b. <<Hack|Track GNU/Linux bertujuan merubah pandangan orang mengenai live sistem 
+    dengan mejadi pioner dalam live sistem Penetrasing total.
+ c. <<Hack|Track GNU/Linux bertujuan agar distro linux yang dari negara indonesia ini 
+    hadir sebagai alternatif pilihan distro yang dikhususkan Penetrasing.
+
+
