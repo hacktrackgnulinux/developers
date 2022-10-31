@@ -66,4 +66,7 @@ yaitu
  c. <<Hack|Track GNU/Linux bertujuan agar distro linux dari negara indonesia ini 
     hadir sebagai alternatif pilihan distro yang dikhususkan Penetrasing.
 
+Keunggulan Utama <<Hack|Track GNU/Linux ?
+a. Pelopor dalam Live Sistem Penetrasing Total
+b. Solusi praktis tanpa perlu install yang sangat portable.
 
