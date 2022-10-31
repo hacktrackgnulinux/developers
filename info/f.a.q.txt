@@ -62,8 +62,8 @@ yaitu
  a. <<Hack|Track GNU/Linux bertujuan sebagai sistem live yang praktis yang digunakan
     oleh individu Penetrasing profesional maupun yang sedang dalam pembelajaran.
  b. <<Hack|Track GNU/Linux bertujuan merubah pandangan orang mengenai live sistem 
-    dengan mejadi pioner dalam live sistem Penetrasing total.
- c. <<Hack|Track GNU/Linux bertujuan agar distro linux yang dari negara indonesia ini 
+    dengan menjadi pelopor dalam live sistem Penetrasing total.
+ c. <<Hack|Track GNU/Linux bertujuan agar distro linux dari negara indonesia ini 
     hadir sebagai alternatif pilihan distro yang dikhususkan Penetrasing.
 
 
