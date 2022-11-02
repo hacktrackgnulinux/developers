@@ -1,0 +1,83 @@
+[INFO]
+Assalamu'alaikum
+Admin Ijin Share
+Perkenalkan Distro Baru
+
+HackTrack GNU/Linux Tester ISO RC01 (Tester)
+Merupakan salah satu distribusi linux yang dikhususkan untuk kebutuhan penetrasi jaringan.
+
+Operating Sistem :
+* Based : Debian Based (Next Core Independent)
+* Rilis : Rolling
+* Arch : i386 & amd64
+* Codenama : revolution
+* Available : Only Live DVD or USB (No Installer to HDD)
+* Status : Tester Preview
+
+Keunikan <<Hack|Track GNU/Linux
+* Buatan Indonesia untuk Indonesia
+* Gratis & Open Source
+* Debian Based (next core dikembangkan mandiri (independent))
+* Menu Unik mix & adaptasi menu dari (backtrack,dracos,kali)
+* Tools di complie dari source dan menunya dibuat manual...
+* Pentest Live USB (Praktis Booting dari USB dari PC / Laptop / Warnet / PC Temen :V )
+* Inti sistem dibuat menggunakan teknik debootstrap + custom script
+* Artwok Dark & Light Theme
+* GUI Mate "style classic"
+* Buatan Indonesia dan untuk indonesia
+* live system dan bisa langsung dipakai.
+* High compress filesystem.squashfs
+* Repository core dan tools dipisah
+
+HackTrack
+* bukan distribusi linux hasil remastering, 
+* tapi dibuat dengan debootstrap dari minbase debian jessie yang
+* selanjutnya inti sistem operasi dikembangkan sendiri hingga akhirnya mandiri. (Independent)
+
+Project
+* HackTrack merupakan project rahasia yang dikerjakan pada pertengahan tahun 2016
+
+Kenapa dev HackTrack mengatakan project rahasia? 
+* dikarenakan dev mengerjakan 2 OS yaitu Xenta OS dan Juga Hack Track.
+* Setelah berselang beberapa lama dan Xenta OS berhasil di release 
+* akhirnya Hack Track pun diputuskan untuk di publikasikan
+
+Nama
+* HackTrack sendiri terinspirasi dari BackTrack linux dimana dev mulai mengenal linux dari BackTrack.
+* Awalnya mulai memakai nama Linux Dark, Dark Hack, 
+* Hingga Akhirnya menjadi Hack Track gnu/linux seperti sekarang ini.
+
+HackTrack sendiri masih menggunakan sistem live CD, dimana user hanya bisa menggunakan HackTrack pada FD saja, 
+mungkin jika tiba pada waktunya, akan disertakan agar bisa di install pada HD.
+
+Tujuan 
+* Dikembangkannya HackTrack sendiri didasarkan ingin menciptakan suatu distribusi linux yang hanya fokus pada live sistem 
+* Dikhususkan untuk kebutuhan penetrasi jaringan sesuai wujud realisasi cita cita dev "my dream is good hacker"
+
+Artwork 
+Bertemakan "Indonesia Merah Putih"
+Theme
+* Adwaita / Fallback Theme
+* Revo Light
+* Revo Dark
+
+Wallpaper :
+* Red,Skyblue,Green,Purple,Yellow,Orange,Dark
+
+Icons :
+* Adwaita / Fallback Icon
+* Revo
+* Revo Dark
+
+Size ISO : 1.1Gb 32bit
+Download : https://hacktracklinux.github.io/
+
+Catatan:
+- ISO untuk pengetesan belum rilis
+- Mohon Bantuannya Pengetesan Tools dan OS
+
+
+Terimakasih
+Wasalamu'alaikum
+Salam Open Source Indonesia.
+
