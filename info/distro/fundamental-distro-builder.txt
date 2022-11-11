@@ -2,7 +2,7 @@ HTGL Project
 Fundamental Distro Builder
 1. Technical Debootsraping
    a. Based Debian "Debootsraping"
-     - Latest"REturn" Based "Bullseye"
+     - Latest"Return" Based "Bullseye"
      - Arsip "Revolution Based "Jessie"
    b. Fokus Distro Pentester Live System
      - Architecture amd64 dan i686
@@ -14,17 +14,21 @@ Fundamental Distro Builder
    "Inspired by BackTrack Linux R5 Gnome" 
    Mengembalikan kenangan yang hilang dengan gnome2.
    gnome2 sudah tidak ada berganti dengan project MATE fork dari Project GNOME2
+   a. Modern 'MATE' Fokus membangun MATE Environment
+   b. Light 'dwm" Alternatif 
    
 3. Directory File System Include /pentest "Tools Native"
    "Inspired by BackTrack Linux R5 Gnome" 
    Koleksi Tools Native
-   a. Tools Native akan ada script khusus yang akan mengelola versi dari toolsnya.
+   a. Tools Native ada script khusus yang akan mengelola versi dari toolsnya.
    b. Tools apt juga ada di https://deb.hacktracklinux.org
    
 4. Experience Distro Startup
    "Inspired by BackTrack Linux R5 Gnome" 
    a. Tidak akan ada Login Manager (gdm/lightdm dll)
    b. Login di awal akan selalu TTY untuk gui gunakan startx
+   c. Boot akan menampilkan log kernel,
+      Tidak menggunakan boot animasi / plymouth
    
    
 
