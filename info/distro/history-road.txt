@@ -11,7 +11,7 @@ revolution jessie i386
  |________________________________________________________ revolution (original) base jessie i386
                                                            |_______ >                                                              
                                                            Dasar Fundamental i386 1 Kode Nama "revolution"
-                                                           RC--------------------------- unlimited
+                                                           RC01
                                                            Tidak ada Rilis Fixed 
                                                            PRIVATE DISCONTINUE
  <---------------------------------------------------------| 
