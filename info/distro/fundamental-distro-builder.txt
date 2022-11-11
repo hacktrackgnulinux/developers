@@ -30,5 +30,8 @@ Fundamental Distro Builder
    c. Boot akan menampilkan log kernel,
       Tidak menggunakan boot animasi / plymouth
    
-   
+5. Kategori Distro
+   a. Live System Pentester
+   b. Live System
+   c. Live Only (Bisa simpan data gunakan presistensi)  
 
