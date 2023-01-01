@@ -2,14 +2,20 @@ HTGL Project
 Fundamental Distro Builder
 1. Technical Debootsraping
    a. Based Debian "Debootsraping"
-     - Latest"Return" Based "Bullseye"
-     - Arsip "Revolution Based "Jessie"
+     - Latest"Revolution" Based "Return" amd64
+     - Arsip "Return" Based "Bullseye"  amd64
+     - Arsip "Reposition Based "Revolution" i386
+     - Arsip "Revolution Based "Jessie" i386
    b. Fokus Distro Pentester Live System
      - Architecture amd64 dan i686
      - Size Image ISO Max 2.5 GB
    c. Installation "Optional"
-     - HTGL-Clone
-      
+     - HTGL-Clone  
+   d. Kode Nama menggunakan satu kode nama
+     - 'revolution' pembedanya dari kode versi
+     PENULISAN TAHUN.BASED-CODE
+     sample 2023.1
+     
 2. Choice Desktop MATE Environment
    "Inspired by BackTrack Linux R5 Gnome" 
    Mengembalikan kenangan yang hilang dengan gnome2.
