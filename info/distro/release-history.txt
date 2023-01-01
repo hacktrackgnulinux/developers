@@ -28,4 +28,4 @@
  -Return
   Website https://www.hacktracklinux.org/
   Source https://github.com/hacktrackgnulinux
-  Download https://cdimage.hacktracklinux.org/RC/hacktrack-2022.1_RC05-amd64.iso
+  Download https://cdimage.hacktracklinux.org/RC/hacktrack-2022.1_RC13-amd64.iso

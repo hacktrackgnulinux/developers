@@ -13,7 +13,7 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 package=developers
-version="Pembaharuan (2022.1)"
+version="Pembaharuan (2023.1)"
 figlet $package
 echo " Set Remote... "
 git remote set-url origin git@github.com:hacktrackgnulinux/$package.git
