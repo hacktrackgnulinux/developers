@@ -9,8 +9,7 @@ Dokumentasi dan Informasi Pengembangan Operating System <<Hack|Track GNU/linux
 # ------------------------------------------------------------
 ###################################################################
 # Default Profile <<Hack|Track GNU/Linux                       
-# version           : 2022.1
-# Author            : HackTrack Team (HackTrack) <team@hacktracklinux.org>
-# Licenced          : Copyright 2017-2022 GNU GPLv3
-# Website           : https://www.hacktracklinux.org/
+# Author            : HackTrack Team
+# Licenced          : Copyright 2017-2024 GNU GPLv3
+# Website           : https://hacktracklinux.github.io/
 ###################################################################
