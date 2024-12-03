@@ -3,3 +3,6 @@ rolling
 reposition
 reincarnation
 return
+------------
+Versi Saat ini menggunakan satu kode nama yaitu revolution dan tidak akan berganti lagi.
+kami menggunakan sistem versi number berubah dan kode nama yang tetap.
