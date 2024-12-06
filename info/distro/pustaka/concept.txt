@@ -10,22 +10,25 @@ Banyak hal yang berubah tapi konsep lama tidak akan terlupakan :
           mengutamakan performa RAM disaat LIVE
 3. Tools ada NATIVE Inspired Folder at /pentest/ 
      a. Tools NATIVE akan ada script khusus yang akan mengelola versi dari toolsnya.
-     b. TOOLS apt juga ada di https://deb.hacktracklinux.org
-5. Tools akan dikelola dengan seminimal mungkin tapi powerfull dan banyak digunakan. di https://tools.hacktracklinux.org/
+     b. TOOLS apt
+5. Tools akan dikelola dengan seminimal mungkin tapi powerfull dan banyak digunakan.
 6. 
 Perbedaan Project Lama dan Yang baru
 Lama :
 REVOLUTION 2017.1 "Based Jessie" 32BIT i386
 ---- > Latest 2020.1 Repositon -> i686 "Archive" -> Discontinue
 IMAGE ISO MBR BIOS LEGACY
-Baru :
 RETURN 2022.1 "Based Bullseye" 64BIT amd64
-----> Latest 2022.1 RC03 Return
+----> Latest 2022.1 RC14 Return -> amd64 "Archive" -> Discontinue
+Baru :
+REVOLUTION 2025.1 "Based Bookworm" 64BIT amd64
+----> Latest 2025.1 RC15 Revolution -> amd64 "Archive" -> Latest
 IMAGE ISO GPT UEFI & BIOS Legacy (Hybrid)
+
 Setelah menilai dari berbagai aspek penelitian mengenai review sebelumnya mengenai tools yang kurang standar maka dimulai dari project baru yang benar2 baru dengan basis masih debian. Banyak sekali pembaharuan tools2 baru yang umum dan minimal ada dalam sebuah distro pentester !.
 Jika ada tools yang baru bisa ditambahkan ke database tools 
 di https://github.com/hacktrackgnulinux/data-tools
-https://www.hacktracklinux.org/
+https://hacktrackgnulinux.github.io/
 RETURN Artinya Memulai Kembali dimana project sempat terhenti karena terhalang pribadi. yang kurang fokus dan kompleks.
 Alasan Kembali 
 1. RESEACH SUDAH DEEP mengenai BASE SYSTEM 
