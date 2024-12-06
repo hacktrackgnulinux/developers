@@ -9,7 +9,7 @@
                      ██║░░██║░░░██║░░░╚██████╔╝███████╗
                      ╚═╝░░╚═╝░░░╚═╝░░░░╚═════╝░╚══════╝
                                           P R O J E C T
-         Website : https://www.hacktracklinux.org E-Mail :  team@hacktracklinux.org
+    Website : https://hacktrackgnulinux.github.io E-Mail :  hacktracklinux@yahoo.com
    _____________________________________________________________________________________
                   STRUCTURE "TEAM DEVELOPMENT" HTGL PROJECT
                        ------------------------------

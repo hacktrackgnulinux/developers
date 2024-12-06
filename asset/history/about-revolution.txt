@@ -23,7 +23,7 @@ HackTrack sendiri masih menggunakan sistem live CD, dimana user hanya bisa mengg
 mungkin jika tiba pada waktunya, akan disertakan agar bisa di install pada HD.
 
 #Keunikan 
-* Buatan Indonesia dan untuk indonesia
+* Buatan Indonhttps://github.com/hacktrackgnulinux/data-toolsesia dan untuk indonesia
 * live system dan bisa langsung dipakai.
 * High compress filesystem.squashfs
 * Repository core dan tools dipisah
@@ -31,7 +31,7 @@ mungkin jika tiba pada waktunya, akan disertakan agar bisa di install pada HD.
 HackTrack masih dalam pendataan tools dan mungkin dijadwalkan akan di release selepas ramadhan.
 
 List tools yang telah terinstall bisa dilihat pada link dibawah :
-https://github.com/hacktracklinux/menu/blob/master/menu
+https://github.com/hacktrackgnulinux/data-tools
 
 Jika ada teman-teman yang ingin memberikan saran ataupun masukan bisa langsung disampaikan ke grup atau juga ke masing-masing pengurus grub.
 
