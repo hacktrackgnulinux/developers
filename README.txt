@@ -5,7 +5,7 @@ Dokumentasi dan Informasi Pengembangan Operating System <<Hack|Track GNU/linux
 #  / / /  | |_| |/ _` |/ __| |/ / | | || '__/ _` |/ __| |/ /
 #  \ \ \  |  _  | (_| | (__|   <| | | || | | (_| | (__|   < 
 #   \_\_\ |_| |_|\__,_|\___|_|\_\ | |_||_|  \__,_|\___|_|\_\
-#   "return of dreams come true"|_|                         
+#"It's time to return the revenge"|_|                         
 # ------------------------------------------------------------
 ###################################################################
 # Default Profile <<Hack|Track GNU/Linux                       
