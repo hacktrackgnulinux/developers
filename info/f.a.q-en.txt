@@ -1,0 +1,71 @@
+<<Hack|Track GNU/Linux
+F.A.Q
+
+What is HackTrack?
+<<Hack|Track GNU/Linux is a specialized live system designed for learning and ethically testing network system penetration (ethical hacking).
+
+What is a Live System?
+Do you still remember the old days—before hard disks and SSDs existed—when people booted systems from floppy disks?
+Well, in this Gen Z era, we expect people to first understand the difference between a live system and a system installed on a hard disk or SSD.
+
+Nowadays, in our view, live systems are divided into two main categories:
+
+A. LIVE SYSTEM MODE INSTALLER (Other Distros)
+This live system runs the operating system in live mode so it can be tested first, but it also provides an installer application so the system can be installed permanently on an HDD or SSD.
+
+B. LIVE SYSTEM MODE LIVE TOTAL (<<Hack|Track GNU/Linux)
+This live system runs purely in live mode and can be used immediately.
+It does not provide an installer application, because <<Hack|Track GNU/Linux is designed to be fully usable without installation.
+
+In short, a live system is an operating system designed to run without needing to be installed on hardware such as a hard disk or SSD.
+
+So, where is this system booted from?
+<<Hack|Track GNU/Linux is designed using hybrid technology.
+This hybrid technology allows the <<Hack|Track GNU/Linux .iso file to be created and booted from bootable media such as:
+a. DVD/RW discs
+b. Flash drives (USB)
+
+Can <<Hack|Track GNU/Linux run without a hard disk?
+<<Hack|Track GNU/Linux can run without a hard disk or SSD installed in a computer or laptop.
+You only need to create a bootable USB flash drive or a bootable DVD disc, then boot the system from the USB port or DVD-ROM drive.
+
+How do you create bootable media for <<Hack|Track GNU/Linux?
+<<Hack|Track GNU/Linux can be created on the following media:
+
+a. DVD RW/R
+
+Download the .iso file from the official website or a mirror
+
+Prepare one blank DVD RW/R disc
+
+Create a bootable disc using an ISO burning application
+
+Boot from the disc
+
+<<Hack|Track GNU/Linux is ready to use
+
+b. Flash Drive
+
+Download the .iso file from the official website or a mirror
+
+Prepare one flash drive with a minimum capacity of 4GB
+
+Create a bootable flash drive using Rufus or Ventoy
+
+Boot from the flash drive
+
+<<Hack|Track GNU/Linux is ready to use
+
+What is the purpose of the <<Hack|Track GNU/Linux Live System?
+In short, as stated in the <<Hack|Track GNU/Linux tagline:
+
+"Penetration Testing Live System Distro — Burn to USB Flash Disk & Run."
+
+Its fundamental objectives are:
+a. <<Hack|Track GNU/Linux aims to be a practical live system used by professional penetration testers as well as learners.
+b. <<Hack|Track GNU/Linux aims to change people’s perception of live systems by becoming a pioneer in total live penetration testing systems.
+c. <<Hack|Track GNU/Linux aims to present an Indonesian Linux distribution as an alternative choice specifically dedicated to penetration testing.
+
+Main Advantages of <<Hack|Track GNU/Linux:
+a. A pioneer in Total Live Penetration Testing Systems
+b. A practical, highly portable solution that requires no installation
