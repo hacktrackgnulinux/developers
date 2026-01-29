@@ -3,12 +3,12 @@
 #  / / /  | |_| |/ _` |/ __| |/ / | | || '__/ _` |/ __| |/ /
 #  \ \ \  |  _  | (_| | (__|   <| | | || | | (_| | (__|   < 
 #   \_\_\ |_| |_|\__,_|\___|_|\_\ | |_||_|  \__,_|\___|_|\_\
-#   "return of dreams come true"|_| R E V O L U T I O N                       
+#"It's time to return the revenge"|_|                         
 # ------------------------------------------------------------
 ###################################################################
 # Default Profile <<Hack|Track GNU/Linux                       
-# version           : 2025.1
+# version           : 2026.1
 # Author            : HackTrack Team
-# Licenced          : Copyright 2017-2025 GNU GPLv3
-# Website           : https://hacktrackgnulinux.github.io/
+# Licenced          : Copyright 2017-2026 GNU GPLv3
+# Website           : https://www.hacktrack-linux.org/
 ###################################################################
