@@ -1,16 +1,41 @@
-#!/bin/bash 
+#!/usr/bin/bash 
 # _   _ _____ ____ _           ____ _                  
 #| | | |_   _/ ___| |         / ___| | ___  _ __   ___ 
 #| |_| | | || |  _| |   _____| |   | |/ _ \| '_ \ / _ \
 #|  _  | | || |_| | |__|_____| |___| | (_) | | | |  __/
 #|_| |_| |_| \____|_____|     \____|_|\___/|_| |_|\___|
-# Script for Installing to Disk Permanent      v:2025.1                                                     
+# Script for Installing to Disk Permanent      v:2026.1                                                     
 #                                  Write by dindinG41TR3
 # HTGL CLONE
-# Lokasi Disk    : /dev/sda1 
-# Lokasi Squash  : /lib/live/mount/persistence/sdb1/live/filesystem.squashfs (DEFAULTS)
-# Lokasi Clone   : /root/clone/
+# Bahasa            : Indonesia-Inggris
+# Version           : 2025.1 Revolution
+# Author            : HackTrack Team
+# Licenced          : Copyright 2017-2026 GNU GPLv3
+# Website           : https://www.hacktrack-linux.org/
 
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+# .
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+# .
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>
+
+# RESIKO DATA HILANG AKIBAT SALAH FORMAT, JANGAN LUPA BACKUP DATA
+# LOKASI CLONING SIAPKAN SPACE HDD/SSD 20-25GB [FORMAT EXT4] SWAP 2-4GB
+
+# CHAPTER 01 PERSIAPAN SEBELUM CLONING OPERATING SYSTEM HACKTRACK GNU/LINUX
+# Tentukan Lokasi Disk untuk Installasi    : /dev/sda1 
+# Lokasi Squash Default                    : /lib/live/mount/persistence/sdb1/live/filesystem.squashfs (DEFAULTS)
+# Lokasi Kerangka Clone                    : /root/clone/
+
+# CHAPTER 02 MEMULAI CLONING OPERATING SYSTEM HACKTRACK GNU/LINUX
+# 0. Buatlah Media Bootable FDSIK dengan OS Versi RF Terbaru lalu mulailah booting dan live.
 # 1. Membuat Directory Cloning
 cd /root
 mkdir clone
@@ -24,7 +49,7 @@ mount /lib/live/mount/persistence/sdb1/live/filesystem.squashfs ./mnt
 # 3. Proses Pengcopian Sistem Berkas
 rsync -a ./mnt/ ./disk/
 
-# 4. Penutupan KAit Disk
+# 4. Penutupan Kait Disk
 umount ./mnt
 
 # 5. Tahapan chroot sistem
@@ -37,15 +62,15 @@ mount devpts none /dev/pts
 export HOME=/root
 export LC_ALL=C
 
-# 6. Tahapan Mengintallasi GRUB
+# 6. Tahapan Mengintallasi GRUB Loaders
 apt install grub2
 update-grub
 grub-install /dev/sda
 
 # 7. Tahapan Pengisian fstab 
-# GUnakan Perintah "blkid" Untuk mengetahui UUID Disk
-# Silahkan EDit Berkas di Lokasi /etc/fstab
-# ISikan Sesuai dengan UUIDnya
+# Gunakan Perintah "blkid" Untuk mengetahui UUID Disk
+# Silahkan Edit Berkas di Lokasi /etc/fstab
+# Isikan Sesuai dengan UUIDnya
 # Contohnya Dibawah ini
 UUID=b56bb36d-fe71-4928-ae67-791d1491ef48 /    ext4 defaults 1 1
 UUID=d62ce4fb-bac5-45fe-92da-804033bc2729 swap swap defaults 0 0
@@ -59,4 +84,3 @@ umount /sys
 umount /dev/pts
 exit
 umount chroot/dev
-
