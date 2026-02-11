@@ -3,16 +3,16 @@ Assalamu'alaikum
 Admin Ijin Share
 Perkenalkan Distro Baru
 
-HackTrack GNU/Linux Tester ISO RC01 (Tester)
+HackTrack GNU/Linux RC ISO (Tester)
 Merupakan salah satu distribusi linux yang dikhususkan untuk kebutuhan penetrasi jaringan.
 
 Operating Sistem :
-* Based : Debian Based (Next Core Independent)
-* Rilis : Rolling
-* Arch : i386 & amd64
+* Based : Debian Based Stable
+* Rilis : ISO File
+* Arch : amd64
 * Codenama : revolution
 * Available : Only Live DVD or USB (No Installer to HDD)
-* Status : Tester Preview
+* Status : Live
 
 Keunikan <<Hack|Track GNU/Linux
 * Buatan Indonesia untuk Indonesia
@@ -69,15 +69,14 @@ Icons :
 * Revo
 * Revo Dark
 
-Size ISO : 1.1Gb 32bit
-Download : https://hacktracklinux.github.io/
+Size ISO : 2.9 Gb 64Bit
+Download : https://www.hacktrack-linux.org/
 
 Catatan:
 - ISO untuk pengetesan belum rilis
-- Mohon Bantuannya Pengetesan Tools dan OS
+- Mohon Bantuannya Pengetesan Tools dan Operating Sistem
 
 
 Terimakasih
 Wasalamu'alaikum
 Salam Open Source Indonesia.
-
