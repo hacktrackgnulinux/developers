@@ -9,7 +9,7 @@
                      ██║░░██║░░░██║░░░╚██████╔╝███████╗
                      ╚═╝░░╚═╝░░░╚═╝░░░░╚═════╝░╚══════╝
                                           P R O J E C T
-    Website : https://hacktrackgnulinux.github.io E-Mail :  hacktracklinux@yahoo.com
+    Website : https://www.hacktrack-linux.org E-Mail :  redlovereturn@yahoo.com
    _____________________________________________________________________________________
                   STRUCTURE "TEAM DEVELOPMENT" HTGL PROJECT
                        ------------------------------
@@ -18,10 +18,11 @@
                                    # /
                                     |
                                     |
-                   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+                   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
                   |                 |                      |
                   |                 |                      |
                Afrzlfa            LoliC0d3             gagaltotal
            {Co-Founder}     {UI/UX Designer}      {Software Enginer}
               # /root             # /org               # /dev
+                           Member: littleshadow
         
