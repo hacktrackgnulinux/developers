@@ -8,7 +8,7 @@ Dokumentasi dan Informasi Pengembangan Operating System <<Hack|Track GNU/linux
 #"It's time to return the revenge"|_|                         
 # ------------------------------------------------------------
 ###################################################################
-# Default Profile <<Hack|Track GNU/Linux                       
+# <<Hack|Track GNU/Linux                       
 # version           : 2026.1
 # Author            : HackTrack Team
 # Licenced          : Copyright 2017-2026 GNU GPLv3
