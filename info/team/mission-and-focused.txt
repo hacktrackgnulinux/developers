@@ -26,3 +26,10 @@
          - Fokus Bagian Front End Tester & Tutorial Tools
          - Optional membuat Dokumentasi tools yang sudah dipasang di project
          - Ikut juga menciptakan Konsep Pengembangan
+
+      Front-End Web Designer
+         - Melaksanakan Konsep Pengembangan
+         - Mengutarakan Pendapat Mengenai Konsep Pengembangan
+         - Fokus Bagian Front End Website
+         - Optional membuat Dokumentasi projet
+         - Ikut juga menciptakan Konsep Pengembangan
