@@ -38,6 +38,6 @@ Fundamental Distro Builder
    
 5. Kategori Distro
    a. Live System Pentester
-   b. Live System
+   b. Live System Forensics
    c. Live Only (Bisa simpan data gunakan presistensi)  
 
