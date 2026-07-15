@@ -8,7 +8,7 @@ Fundamental Distro Builder
      - Arsip "Revolution Based "Jessie" i386
    b. Fokus Distro Pentester Live System
      - Architecture amd64 dan i686
-     - Size Image ISO Max 2.5 GB
+     - Size Image ISO Max 4 GB
    c. Installation "Optional"
      - HTGL-Clone  
    d. Kode Nama menggunakan satu kode nama
