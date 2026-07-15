@@ -27,7 +27,7 @@ Fundamental Distro Builder
    "Inspired by BackTrack Linux R5 Gnome" 
    Koleksi Tools Native
    a. Tools Native ada script khusus yang akan mengelola versi dari toolsnya.
-   b. Tools apt juga ada di https://deb.hacktracklinux.org
+   b. Tools apt juga ada di https://github.com/hacktrackgnulinux
    
 4. Experience Distro Startup
    "Inspired by BackTrack Linux R5 Gnome" 
