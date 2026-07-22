@@ -1,0 +1,7 @@
+  <<Hack|Track GNU/Linux is a specialist Linux distribution designed for penetration testing. 
+It is based on Debian's stable branch and comes with the MATE desktop environment. 
+The distribution includes over 200 penetration testing tools split into several categories, 
+such as information gathering, vulnerability analysis, exploitation tools, wireless attacks, 
+forensics tools, stress testing, password attacks, hardware hacking, 
+reverse engineering and several others. <<Hack|Track GNU/Linux is meant to be used in "live" mode, 
+booted either from an external USB drive or from a DVD.
